@@ -8,7 +8,7 @@ venv/
 !.env.example
 .DS_Store
 Thumbs.db
-*.Zone.Identifier
+*:Zone.Identifier
 
 # Embedded audit checkouts are analysis-only and must not become nested repos.
 references/repos/
