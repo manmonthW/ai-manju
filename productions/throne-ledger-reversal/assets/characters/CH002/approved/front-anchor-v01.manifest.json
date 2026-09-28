@@ -1,0 +1,38 @@
+{
+  "asset_id": "CH002",
+  "name": "沈岳",
+  "status": "approved_with_user_directive",
+  "approved_path": "assets/characters/CH002/approved/front-anchor-v01.png",
+  "source_generation_job": "JOB-EP001-CH002-I02",
+  "source_path": "assets/characters/CH002/draft/front-anchor-v02.png",
+  "sha256": "bb76aea01000c08bd799a6b34c92c2e936e1af97ca61957e4be7d7966ff37e36",
+  "technical": {"format": "PNG", "dimensions": [1008, 1792]},
+  "generation": {
+    "model": "GPT Image 2",
+    "parameters": "Medium · 9:16 · 1 img plus one reference",
+    "actual_credits": 10,
+    "balance_before": 3098,
+    "balance_after": 3088,
+    "lovart_project_id": "2r4z2uqfdx4w",
+    "provider_shape_id": "shape:Qp2Ndq0kaE8pqqcLimttE"
+  },
+  "canonical_identity": [
+    "square-long face and high cheekbones",
+    "narrow watchful eyes",
+    "short mustache and small pointed chin beard",
+    "tall broad non-obese build",
+    "deep crimson robe and dark burgundy inner layer",
+    "symmetric black horizontal crown wings",
+    "single hip accessory on anatomical right/screen-left"
+  ],
+  "known_minor_variances": [
+    "crown body has a slightly flared folded silhouette rather than a perfectly rectangular block",
+    "belt includes small decorative studs",
+    "hip pouch reads partly as a rigid jade-tablet case and uses a compound short connector"
+  ],
+  "authority_policy": {
+    "authoritative_for": ["face", "age", "beard", "body proportions", "robe palette", "crown wing silhouette", "hip-accessory side"],
+    "normalize_in_shots": ["render belt without prominent studs", "soften hip pouch material", "simplify pouch connector", "avoid extreme crown close-ups"],
+    "rejected_retouched_derivative": "assets/characters/CH002/draft/front-anchor-v02-retouched.png"
+  }
+}

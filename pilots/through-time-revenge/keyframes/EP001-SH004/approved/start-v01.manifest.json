@@ -1,0 +1,29 @@
+{
+  "asset_id": "EP001-SH004-START-V01",
+  "shot_id": "EP001-SH004",
+  "status": "approved_with_waiver",
+  "approved_by": "user",
+  "source_generation_job": "JOB-EP001-SH004-I01",
+  "approved_path": "keyframes/EP001-SH004/approved/start-v01.png",
+  "sha256": "975ab4108bdfced3788072f6d59fdcf6541526a6ccc8ca5a3661fda6cf64fd05",
+  "technical": {"format": "PNG", "dimensions": [1008, 1792]},
+  "accepted_strengths": [
+    "clear right-hand ledger seizure and left-hand support",
+    "single open ledger with overlapping red seals",
+    "cinematic vertical court composition, depth and cold-warm lighting",
+    "blurred crimson sleeve without a second face",
+    "strong narrative readability for the counterattack beat"
+  ],
+  "waived_issues": [
+    "seal interiors contain pseudo-character detail",
+    "identity mole is not visibly stable",
+    "ledger opening structure is slightly ambiguous",
+    "right-hand, sleeve and ledger contact is an I2V fusion-risk zone",
+    "environment reads as a generic imperial court rather than uniquely identifiable throne hall"
+  ],
+  "usage_policy": {
+    "allowed": ["I2V start frame", "animatic", "shot composition reference"],
+    "postprocess_required": ["replace or obscure pseudo-character seal details if held long enough to read"],
+    "identity_authority": "assets/characters/CH001/approved/front-anchor-v01.png"
+  }
+}

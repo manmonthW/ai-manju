@@ -1,0 +1,15 @@
+Create the canonical static keyframe for EP001-SH010, the emperor's decisive command in a premium realistic Chinese historical animated drama, 9:16 vertical.
+
+Use approved references with strict ownership: CH005 controls Emperor Xiao Chengqian's seated partial silhouette, dark ceremonial crown, near-black imperial robe, dark wine-red inner collar, throne, dense pearl curtain and right-hand command gesture; PROP002 controls only the standardized imperial guard saber and dark red-brown scabbard; LOC001 controls the Great Yao throne hall architecture, blue-gray polished stone, red pillars, dark-gold framing, spatial axis and morning lighting. Do not invent a full emperor face or let the weapon reference redesign the emperor.
+
+Frame the exact command boundary. Long-lens view through dense vertical pearl curtains. The emperor remains seated and largely concealed on the elevated dark throne in the upper-middle background, never standing. His anatomical right hand, appearing screen-left, is raised to lower-chest height with palm angled downward and slightly forward in one calm stopping/command gesture. His anatomical left hand remains on the throne armrest. His eyes and full facial features remain unreadable behind pearl strands and low light; only restrained jaw and silhouette perception are allowed. Preserve the medium-height dark ceremonial crown with horizontal side structure, near-black charcoal imperial robe, dark wine-red inner collar and restrained dark-gold geometric trim.
+
+In the lower foreground, show a single imperial guard only as a cropped eye-line/helmet-edge and one hand resting on the hilt of exactly one standardized saber still in its matching dark red-brown scabbard. The guard has just redirected attention toward Shen Yue off-screen; no attack, no draw, no blade strike. Keep the saber's small oval guard, black horizontal cord-wrapped grip, dark bronze faceted pommel and exactly one visible suspension ring consistent with PROP002. No second weapon.
+
+Composition: compressed 100mm-equivalent telephoto, pearl strings dominate the foreground and split the emperor silhouette without obscuring the raised right hand. The emperor and command hand are the primary read; the guard eye/hilt insert is secondary in the lower edge. Red pillars and dark-gold hall elements remain soft and symmetrical. All incidental motion has stopped.
+
+Light: restrained cool morning ambience with controlled warm side light matching the approved emperor reference and hall. Keep the face low-exposure; hand and robe edge receive the clearest light. No magical glow.
+
+Continuity locks: emperor seated; anatomical right hand screen-left raised; left hand on armrest; face unreadable; dense pearl curtain; exactly one guard saber remains sheathed; no one attacks.
+
+Forbidden: emperor standing, full face or readable eyes, crown drift, second emperor, drawn saber, extra weapon, sword strike, readable throne text, subtitle, watermark, multiple people making large movements, magical light, duplicated fingers or hands.

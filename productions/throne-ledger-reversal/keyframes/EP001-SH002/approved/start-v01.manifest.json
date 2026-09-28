@@ -1,0 +1,32 @@
+{
+  "shot_id": "EP001-SH002",
+  "status": "approved_by_user",
+  "approved_path": "keyframes/EP001-SH002/approved/start-v01.png",
+  "source_job": "JOB-EP001-SH002-I01",
+  "provider_asset_id": "shape:2YcQKHfF2t6m2keLyBj1V",
+  "sha256": "2fa7b1b7c282b4b1110365f20d292eadce6076ee59a7351e5c7f42aeffaf55c8",
+  "dimensions": {"width": 1008, "height": 1792},
+  "generation": {"model": "GPT Image 2", "quality": "Medium", "aspect_ratio": "9:16", "reference_count": 4, "credits": 16, "balance_before": 2906, "balance_after": 2890},
+  "canonical_frame_traits": [
+    "萧策位于金銮殿中轴并保持双膝跪坐、躯干略前压",
+    "深青近墨蓝暗金纹外袍、深色交领与棕色腰带",
+    "深色镂空发冠和水平横簪两端外露",
+    "当前面部小痣位于本人左颊即画面右侧",
+    "短血痕位于本人左侧唇角即画面右侧",
+    "前景恰好两把刀锋左右夹框、不交叉且不接触人物",
+    "沈岳仅以画面左侧红袍暗金边局部出现",
+    "金銮殿台阶、红柱和背景群像保持中轴纵深",
+    "主光实际来自画面右上与后右方向"
+  ],
+  "i2v_constraints": [
+    "保持双膝跪姿，禁止变成单膝、站立或腿部穿插",
+    "按本帧锁定痣和血迹位置，禁止漂移、翻转、消失或扩大",
+    "发冠和横簪不得缩短、倾斜、穿头或增生",
+    "刀锋数量固定为两把，禁止弯曲、交叉、抖动或穿体",
+    "深青袍暗金纹样和领口层级不得闪烁游走",
+    "沈岳红袍只保持局部，禁止补全完整脸或与刀锋融合",
+    "背景群像保持虚焦且不增减抢焦",
+    "金銮殿中轴、台阶、红柱与画面右后方光向保持稳定"
+  ],
+  "approval_note": "User requested direct collect and approval. Visual review is non-blocking continuity registration."
+}

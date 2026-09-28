@@ -1,0 +1,40 @@
+{
+  "shot_id": "EP001-SH014",
+  "job_id": "JOB-EP001-SH014-I01",
+  "prompt_ref": "keyframes/prompts/EP001-SH014-keyframe-v01.txt",
+  "reference_upload_order": [
+    {
+      "asset_id": "CH001",
+      "role": "Xiao Ce identity and costume only",
+      "path": "../../pilots/through-time-revenge/assets/characters/CH001/approved/front-anchor-v01.png"
+    },
+    {
+      "asset_id": "CH004",
+      "role": "empress partial silhouette, coiffure, phoenix hairpin, curtain and light only",
+      "path": "assets/characters/CH004/approved/empress-partial-reference-v01.png"
+    },
+    {
+      "asset_id": "PROP003",
+      "role": "single ledger topology only",
+      "path": "assets/props/PROP003/approved/ledger-master-v01.png"
+    },
+    {
+      "asset_id": "PROP005",
+      "role": "single phoenix seal geometry and material only",
+      "path": "assets/props/PROP005/approved/phoenix-private-seal-v01.png"
+    },
+    {
+      "asset_id": "LOC001",
+      "role": "throne hall architecture, floor, pearl curtain and lighting only",
+      "path": "assets/locations/LOC001/approved/throne-hall-anchor-v01.png"
+    }
+  ],
+  "binding_status": "requires_manual_windows_file_picker_upload",
+  "reason": "All five approved canvas nodes are currently virtualized as display:none; Lovart canvas selection cannot bind hidden nodes reliably.",
+  "generation": {
+    "model": "GPT Image 2",
+    "quality": "Medium",
+    "aspect_ratio": "9:16",
+    "count": 1
+  }
+}

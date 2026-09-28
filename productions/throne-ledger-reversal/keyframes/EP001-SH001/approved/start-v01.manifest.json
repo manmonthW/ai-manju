@@ -1,0 +1,32 @@
+{
+  "shot_id": "EP001-SH001",
+  "status": "approved_by_user",
+  "approved_path": "keyframes/EP001-SH001/approved/start-v01.png",
+  "source_job": "JOB-EP001-SH001-I01",
+  "provider_asset_id": "shape:zx8sqL5BciU72rKnrjIe7",
+  "sha256": "b7113bfc28cb46ecee3dc10bd01c991b36a3d1c5dd738233d7699d12b5da2b9f",
+  "dimensions": {"width": 1008, "height": 1792},
+  "generation": {"model": "GPT Image 2", "quality": "Medium", "aspect_ratio": "9:16", "reference_count": 4, "credits": 16, "balance_before": 2972, "balance_after": 2956},
+  "canonical_frame_traits": [
+    "前景只有一份展开圣旨并保持双木轴",
+    "圣旨直接接触青灰抛光石地",
+    "萧策中央双膝跪地、上身前倾、深青黑旧袍铺地",
+    "面部小痣和嘴角短血痕可见",
+    "萧策右手位于画面左侧撑地并带擦伤血迹",
+    "沈岳仅以画面左侧红色织锦袍、垂手和下摆局部出现",
+    "单一深褐木杖近乎竖直且铜色杖脚接触石地",
+    "金銮殿朱红柱列、深色梁架和抛光石地形成纵深",
+    "主光实际来自画面右侧高窗的暖侧逆光"
+  ],
+  "i2v_constraints": [
+    "圣旨保持一份、双轴，不得增减、分离或漂浮",
+    "萧策保持双膝跪姿，不变成单膝、坐姿或站起",
+    "面部小痣和嘴角血迹不得换侧、扩张或消失",
+    "右手保持画面左侧撑地，五指、关节和血迹稳定",
+    "沈岳不得由红袍局部突然补全为完整人物",
+    "木杖保持竖直、杖脚落地且不得穿透红袍或石地",
+    "发冠横簪、宽袖和铺地袍摆不得闪变",
+    "按本关键帧实际光向，SH001镜头保持画面右侧暖侧逆光"
+  ],
+  "approval_note": "User requested direct collect and approval. Visual review is non-blocking continuity registration."
+}

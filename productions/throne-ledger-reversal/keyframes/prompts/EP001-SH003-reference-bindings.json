@@ -1,0 +1,13 @@
+{
+  "shot_id": "EP001-SH003",
+  "job_id": "JOB-EP001-SH003-I01",
+  "prompt_ref": "keyframes/prompts/EP001-SH003-keyframe-v01.txt",
+  "reference_upload_order": [
+    {"asset_id": "CH001", "role": "Xiao Ce eye, facial identity and ancient sleeve only", "path": "../../pilots/through-time-revenge/assets/characters/CH001/approved/front-anchor-v01.png"},
+    {"asset_id": "CH002", "role": "Shen Yue crimson sleeve and anatomical-left sleeve position only", "path": "assets/characters/CH002/approved/front-anchor-v01.png"},
+    {"asset_id": "PROP003", "role": "single old ledger cover, spine and page-block topology only", "path": "assets/props/PROP003/approved/ledger-master-v01.png"},
+    {"asset_id": "LOC001", "role": "throne hall red pillars, axis and directional light only", "path": "assets/locations/LOC001/approved/throne-hall-anchor-v01.png"}
+  ],
+  "binding_status": "requires_manual_windows_file_picker_upload",
+  "generation": {"model": "GPT Image 2", "quality": "Medium", "aspect_ratio": "9:16", "count": 1}
+}

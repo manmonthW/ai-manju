@@ -1,0 +1,24 @@
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.venv/
+venv/
+.env
+.env.*
+!.env.example
+.DS_Store
+Thumbs.db
+*.Zone.Identifier
+
+# Embedded audit checkouts are analysis-only and must not become nested repos.
+references/repos/
+
+# Generated media and production evidence can be large; keep contracts and manifests.
+productions/**/draft/
+productions/**/qa/**/frames/
+productions/**/*.mp4
+pilots/**/*.mp4
+
+# Local scratch and editor files.
+*.tmp
+*.log

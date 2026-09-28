@@ -1,0 +1,15 @@
+Create the canonical static keyframe for EP001-SH003, the memory-flash and ledger-lock moment in a premium realistic Chinese historical animated drama, 9:16 vertical.
+
+Use approved references with strict ownership: CH001 controls Xiao Ce identity, dark-teal worn robe, facial mark, dark-metal crown and straight horizontal pin; CH002 controls Shen Yue's crimson official robe and sleeve position only; PROP003 controls the single old ledger topology, gray-beige cover, dark stitched spine, stable page block and exactly two faded red seal impressions; LOC001 controls the Great Yao throne hall floor, red pillars, dark-gold architecture, axis and directional morning light. Do not merge modern flashback imagery into ancient objects.
+
+Build one cinematic composite keyframe representing Xiao Ce's perception at the final lock-on boundary. In the left foreground, use an extreme close-up of Xiao Ce's eye and upper cheek, sharp enough to preserve identity and the small facial marker when anatomically visible. Warm hall light reflects in the pupil; expression shifts from disorientation to analytical focus. His ancient dark-teal sleeve remains visible at the lower edge, proving he is still kneeling in the hall.
+
+In the right-middle focal plane, Shen Yue's crimson sleeve is cropped and soft, with exactly one canonical old ledger edge exposed from the inner side of his anatomical left sleeve. The ledger's gray-beige cloth cover, dark stitched spine and thick aged page block are recognizable. No second ledger. Xiao Ce's eyeline and the ledger form a clear diagonal visual connection.
+
+Between the eye and ledger, incorporate three extremely subtle memory-echo fragments as soft reflection-like overlays, never floating interfaces: one rectangular wash of modern meeting-room white light, one faint abstract spreadsheet grid with no data, and one blurred falling coffee cup silhouette. Each echo is small, semi-transparent and subordinate to the ancient hall. They must look like momentary mental flashes, not literal holograms, magic, or objects physically present in the throne hall.
+
+Camera and composition: 85mm eye close-up transitioning visually to an 85mm ledger detail in the same cinematic composite, shallow depth of field. The ancient throne-hall red pillars and dark-gold shapes stay softly recognizable behind. Maintain right-side/right-rear morning light established by accepted adjacent shots. No readable modern or ancient writing.
+
+Continuity locks: Xiao Ce remains kneeling; ancient sleeve visible; exactly one ledger inside Shen Yue's anatomical left sleeve; Shen Yue crimson robe; only three abstract modern echoes; no interface or brand.
+
+Forbidden: readable spreadsheet numbers, financial text, phone, visible computer brand, system panel, HUD, magic portal, glowing aura, floating screen, second ledger, ledger outside the left sleeve, complete extra face, subtitle, watermark, readable writing or logos.

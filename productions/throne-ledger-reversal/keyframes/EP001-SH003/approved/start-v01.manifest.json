@@ -1,0 +1,35 @@
+{
+  "shot_id": "EP001-SH003",
+  "status": "approved_by_user",
+  "approved_path": "keyframes/EP001-SH003/approved/start-v01.png",
+  "source_job": "JOB-EP001-SH003-I01",
+  "provider_asset_id": "shape:CLuR2StL-QGT0LzfGEuO9",
+  "sha256": "b9a4b5633e9f3e5dabdc1e551ce5177bdba3cacc9522d18a8eb2256bab05ae28",
+  "dimensions": {"width": 1008, "height": 1792},
+  "generation": {"model": "GPT Image 2", "quality": "Medium", "aspect_ratio": "9:16", "reference_count": 4, "credits": 16, "balance_before": 2890, "balance_after": 2874},
+  "canonical_frame_traits": [
+    "萧策左侧极近景只露约半张脸与清晰左眼",
+    "深青暗纹古装、深色发冠和水平横簪",
+    "左眼视线指向画面右侧沈岳红袖内的账册",
+    "沈岳只以右侧朱红暗花宽袖和金色几何宽边出现",
+    "中央三组现代记忆叠影依次为会议室、抽象数据网格和白色咖啡杯",
+    "现代叠影保持半透明并从属于金銮殿真实空间",
+    "金銮殿红柱、梁架、远端台阶和抛光地面维持主空间",
+    "主光实际来自画面右侧高窗的暖斜射光"
+  ],
+  "non_blocking_deviations": [
+    "生成结果在沈岳红袖内显示两本紧贴账册，而非原计划的一本",
+    "萧策古装袖口未完整露出"
+  ],
+  "i2v_constraints": [
+    "左眼虹膜、高光和身份不得漂移或出现双瞳",
+    "固定萧策左眼至账册的视线连线",
+    "发冠、横簪和发丝不得抖动或融入背景",
+    "沈岳红袖纹样、袖口厚度和左右归属不得变化",
+    "按已批准画面保持两本账册，不得继续增殖、融合或变成现代文件",
+    "三组记忆碎片不得增殖、位移或生成可读电子文字",
+    "现代叠影不得变成实体屏幕、HUD或魔法光效",
+    "红柱、台阶、右侧暖光和地面反射保持稳定"
+  ],
+  "approval_note": "User requested direct collect and approval. The two-ledger deviation is explicitly preserved as a non-blocking approved frame fact."
+}

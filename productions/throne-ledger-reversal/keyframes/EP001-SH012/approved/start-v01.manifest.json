@@ -1,0 +1,30 @@
+{
+  "shot_id": "EP001-SH012",
+  "status": "approved_by_user",
+  "approved_path": "keyframes/EP001-SH012/approved/start-v01.png",
+  "source_job": "JOB-EP001-SH012-I01",
+  "provider_asset_id": "shape:4Vih53eb9q-wsG-u6pYrk",
+  "sha256": "101704c2a29539b55c0c2ececdc8eb635b8aa5d8b8cc2d582bddf3ef820185a2",
+  "dimensions": {"width": 1008, "height": 1792},
+  "generation": {"model": "GPT Image 2", "quality": "Medium", "aspect_ratio": "9:16", "reference_count": 6, "credits": 20, "balance_before": 2956, "balance_after": 2936},
+  "canonical_frame_traits": [
+    "前景只有一份展开圣旨与完整双轴",
+    "沈岳中央双膝跪地、暗红官袍与黑色官帽",
+    "萧策位于左后方站立、深青黑长袍并做右手两指下探动作",
+    "顾清霜位于右后方站立并双手持唯一账册",
+    "三人构成圣旨—沈岳—萧策/顾清霜的稳定审讯轴线",
+    "金銮殿红柱、梁架、格窗、台阶和抛光石地保持纵深",
+    "主光实际来自画面右后方高窗的冷斜向体积光"
+  ],
+  "i2v_constraints": [
+    "圣旨保持单份、双轴，文字与红印不得游动或锐化成伪文字",
+    "沈岳保持中央双膝跪姿，不得变成蹲坐或起身",
+    "萧策右手保持两指动作，禁止粘连、增指或变成单指",
+    "萧策面部小痣不得换侧、闪烁或消失",
+    "顾清霜所持账册不得软化、翻页、穿手或变成其他物件",
+    "三人尺度、遮挡和轴线不得漂移，顾清霜不前移抢位",
+    "宫殿梁柱、格窗与台阶不得呼吸变形",
+    "按本关键帧实际光向保持右后方体积光和地面反射"
+  ],
+  "approval_note": "User requested direct collect and approval. Visual review is non-blocking continuity registration."
+}

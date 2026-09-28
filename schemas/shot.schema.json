@@ -1,0 +1,30 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://local.invalid/ai-comic-drama/shot.schema.json",
+  "title": "Shot Contract",
+  "type": "object",
+  "additionalProperties": false,
+  "required": ["schema_version", "shot_id", "scene_id", "story_purpose", "duration_s", "start_boundary", "primary_transition", "end_boundary", "camera", "references", "continuity_locks"],
+  "properties": {
+    "schema_version": {"const": "1.0.0"},
+    "shot_id": {"type": "string", "pattern": "^EP[0-9]{3}-SH[0-9]{3}$"},
+    "scene_id": {"type": "string", "pattern": "^EP[0-9]{3}-SC[0-9]{3}$"},
+    "story_purpose": {"type": "string", "minLength": 1},
+    "duration_s": {"type": "number", "exclusiveMinimum": 0},
+    "start_boundary": {"type": "string", "minLength": 1},
+    "primary_transition": {"type": "string", "minLength": 1},
+    "end_boundary": {"type": "string", "minLength": 1},
+    "camera": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": ["shot_size", "movement", "screen_direction"],
+      "properties": {
+        "shot_size": {"type": "string", "minLength": 1},
+        "movement": {"type": "string", "minLength": 1},
+        "screen_direction": {"type": "string", "minLength": 1}
+      }
+    },
+    "references": {"type": "array", "items": {"type": "object"}},
+    "continuity_locks": {"type": "array", "items": {"type": "string"}, "uniqueItems": true}
+  }
+}

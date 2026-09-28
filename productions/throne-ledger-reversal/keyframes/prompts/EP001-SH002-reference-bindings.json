@@ -1,0 +1,13 @@
+{
+  "shot_id": "EP001-SH002",
+  "job_id": "JOB-EP001-SH002-I01",
+  "prompt_ref": "keyframes/prompts/EP001-SH002-keyframe-v01.txt",
+  "reference_upload_order": [
+    {"asset_id": "CH001", "role": "Xiao Ce identity, mole, crown and costume only", "path": "../../pilots/through-time-revenge/assets/characters/CH001/approved/front-anchor-v01.png"},
+    {"asset_id": "CH002", "role": "Shen Yue crimson partial silhouette and axis position only", "path": "assets/characters/CH002/approved/front-anchor-v01.png"},
+    {"asset_id": "PROP002", "role": "two foreground guard saber edge and hilt language only", "path": "assets/props/PROP002/approved/imperial-guard-saber-v01.png"},
+    {"asset_id": "LOC001", "role": "throne hall architecture, axis and lighting only", "path": "assets/locations/LOC001/approved/throne-hall-anchor-v01.png"}
+  ],
+  "binding_status": "requires_manual_windows_file_picker_upload",
+  "generation": {"model": "GPT Image 2", "quality": "Medium", "aspect_ratio": "9:16", "count": 1}
+}

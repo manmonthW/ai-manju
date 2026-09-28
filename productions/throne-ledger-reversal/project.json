@@ -1,0 +1,31 @@
+{
+  "schema_version": "1.0.0",
+  "project_id": "THRONE-LEDGER-REVERSAL",
+  "title": "我在朝堂直播抄家",
+  "status": "preproduction",
+  "format": {
+    "season": 1,
+    "episode": 1,
+    "episode_duration_s": 80,
+    "aspect_ratio": "9:16",
+    "language": "zh-CN",
+    "delivery_resolution": [1080, 1920],
+    "working_video_resolution": [720, 1280],
+    "target_fps": 24
+  },
+  "providers": {
+    "image": "lovart",
+    "video": "lovart"
+  },
+  "canonical_assets": {
+    "CH001": "../../pilots/through-time-revenge/assets/characters/CH001/approved/front-anchor-v01.png",
+    "SH004_PILOT_VIDEO": "../../pilots/through-time-revenge/generations/lovart/videos/EP001-SH004-v01.mp4"
+  },
+  "production_policy": {
+    "paid_job_gate": "exact-preview-hash",
+    "collect_before_retry": true,
+    "accepted_assets_only": true,
+    "waivers_require_manifest": true,
+    "readable_text": "deterministic-postproduction"
+  }
+}

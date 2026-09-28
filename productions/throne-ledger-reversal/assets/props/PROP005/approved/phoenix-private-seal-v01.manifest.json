@@ -1,0 +1,35 @@
+{
+  "asset_id": "PROP005",
+  "name": "凤纹私印",
+  "status": "approved_by_user",
+  "approved_path": "assets/props/PROP005/approved/phoenix-private-seal-v01.png",
+  "source_generation_job": "JOB-EP001-PROP005-I01",
+  "sha256": "85a508fd8a32ee9d19378291e9090fe1147cedbcd610f2906b1a5af1da835726",
+  "technical": {"format": "PNG", "dimensions": [1008, 1792]},
+  "generation": {
+    "model": "GPT Image 2",
+    "parameters": "Medium · 9:16 · 1 img",
+    "actual_credits": 8,
+    "balance_before": 3072,
+    "balance_after": 3064,
+    "lovart_project_id": "2r4z2uqfdx4w",
+    "provider_shape_id": "shape:6MnrASJP457m1J0XpTHtN"
+  },
+  "canonical_structure": [
+    "one compact aged bronze phoenix-knob private seal",
+    "phoenix head faces screen-left",
+    "two long swept crest feathers",
+    "four visible primary wing layers",
+    "one thick single spiral tail on screen-right",
+    "thin square platform above a heavy square base",
+    "dark brown-black patina, worn muted-gold raised edges and minor green oxidation"
+  ],
+  "continuity_normalization": [
+    "Do not mirror the phoenix without an explicit reverse camera angle.",
+    "Keep two main crest feathers, four primary wing layers and one spiral tail.",
+    "Treat front-base patterns as abstract feather/flame decoration, not readable seal text.",
+    "The underside is not defined by this view; keep it obscured unless a deterministic underside asset is created.",
+    "For falling motion, preserve heavy square-base mass and do not float like a lightweight ornament.",
+    "Match the queen hairpin using left-facing head, two crest feathers, four feather divisions and single spiral-tail language."
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "schema_version": "1.0.0",
+  "shot_id": "EP001-SH001",
+  "scene_id": "EP001-SC001",
+  "story_purpose": "建立主角发现异常信件",
+  "duration_s": 4,
+  "start_boundary": "主角站在门内，右手空闲，信封位于门外地面",
+  "primary_transition": "主角弯腰用右手拾起信封",
+  "end_boundary": "主角直立，右手持信封，视线落在封口",
+  "camera": {
+    "shot_size": "medium",
+    "movement": "locked",
+    "screen_direction": "left-to-right"
+  },
+  "references": [],
+  "continuity_locks": ["CH001@1", "LC001@1", "PR001@sealed"]
+}

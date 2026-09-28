@@ -1,0 +1,42 @@
+{
+  "schema_version": "1.0.0",
+  "episode_id": "EP001",
+  "title": "抄错人了",
+  "target_duration_s": 42,
+  "characters": [
+    {
+      "character_id": "CH001",
+      "name": "萧策",
+      "role": "穿越者/落难世子",
+      "identity_lock": "二十四岁，清瘦挺拔，狭长黑眸，黑发束冠，深青旧锦袍，右眉尾小痣",
+      "performance_arc": "茫然半秒→冷静计算→公开压迫→克制胜利",
+      "forbidden_changes": ["现代服装", "金色华服", "胡须", "眼镜", "发色变化"]
+    },
+    {
+      "character_id": "CH002",
+      "name": "沈岳",
+      "role": "权臣",
+      "identity_lock": "五十岁，宽额方脸，短须，暗红一品官袍，黑金官帽，左手玉扳指",
+      "performance_arc": "傲慢掌控→短暂迟疑→失态跪倒",
+      "forbidden_changes": ["年轻化", "无胡须", "更换官袍颜色", "玉扳指换手"]
+    }
+  ],
+  "locations": [
+    {
+      "location_id": "LC001",
+      "name": "金銮殿",
+      "identity_lock": "深红立柱、暗金斗拱、青灰石地、清晨侧逆光、冷暖高对比、纵深对称但不过度空旷",
+      "forbidden_changes": ["现代建筑", "户外", "明亮喜庆婚礼色彩"]
+    }
+  ],
+  "props": [
+    {"prop_id": "PR001", "name": "赈灾粮账册", "state": "旧黄纸册、深褐线装、封底双重印痕、无可读文字"},
+    {"prop_id": "PR002", "name": "抄家圣旨", "state": "暗黄卷轴、红色封印、无可读文字"},
+    {"prop_id": "PR003", "name": "凤纹私印", "state": "小型暗红印章、底部凤纹、微有旧墨"}
+  ],
+  "look": {
+    "style_id": "LK001",
+    "description": "高级中国古风动态漫，半写实人物，电影级体积光，精细布料和皮肤，墨色阴影与克制金红色，非Q版，非游戏UI",
+    "aspect_ratio": "9:16"
+  }
+}

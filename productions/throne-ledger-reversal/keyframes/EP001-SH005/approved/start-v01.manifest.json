@@ -1,0 +1,35 @@
+{
+  "shot_id": "EP001-SH005",
+  "status": "approved_by_user",
+  "approved_path": "keyframes/EP001-SH005/approved/start-v01.png",
+  "source_job": "JOB-EP001-SH005-I01",
+  "provider_asset_id": "shape:D4_G-TSTP1hqLRtF9nMZT",
+  "sha256": "27d22ade7879f033c7133fee8da1ce1b1bdf0bd7e9ed1e9945ccd933198cb741",
+  "dimensions": {"width": 1008, "height": 1792},
+  "generation": {"model": "GPT Image 2", "quality": "Medium", "aspect_ratio": "9:16", "reference_count": 4, "credits": 16, "balance_before": 2858, "balance_after": 2842},
+  "canonical_frame_traits": [
+    "萧策位于左前景双膝跪地并仰视沈岳",
+    "萧策深青黑暗金纹宽袖长袍、束腰、发冠和横簪",
+    "萧策表情克制、警惕、倔强而非认罪",
+    "沈岳位于画面右侧完整站立并俯视萧策",
+    "沈岳朱红宽袍、暗金边、黑色官帽与短髭",
+    "背景约六至八名朝臣虚焦观望或轻微交谈",
+    "金銮殿朱柱、台阶、宫灯与抛光石地保持纵深",
+    "主光实际来自画面右上和后方"
+  ],
+  "non_blocking_deviations": [
+    "画面没有清晰可辨识的独立账册",
+    "沈岳腰腹附近狭长物件只能登记为不确定持物，不能作为账册权威"
+  ],
+  "i2v_constraints": [
+    "保持萧策双膝跪姿，禁止膝位滑动、腿部穿模或无故起身",
+    "萧策视线持续落在沈岳脸部，表情不得变成夸张惊恐",
+    "长发、发冠和横簪不得粘连、穿肩或变形",
+    "沈岳固定画面右侧站位和俯视关系",
+    "不得让不确定持物变成笏板、刀柄、卷轴或新增账册",
+    "双方宽袖、手指和衣纹不得融合、增指或漂移",
+    "背景朝臣只做低幅待机，人数、帽翅和位置保持稳定",
+    "保持画面右上/后方主光、石地倒影和宫殿透视"
+  ],
+  "approval_note": "User requested direct collect and approval. Missing explicit ledger is preserved as a non-blocking approved-frame fact."
+}

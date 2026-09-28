@@ -1,0 +1,33 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://local.invalid/ai-comic-drama/project.schema.json",
+  "title": "AI Comic Drama Project",
+  "type": "object",
+  "additionalProperties": false,
+  "required": ["schema_version", "project_id", "title", "status", "format", "providers"],
+  "properties": {
+    "schema_version": {"const": "1.0.0"},
+    "project_id": {"type": "string", "pattern": "^[A-Z][A-Z0-9-]{2,63}$"},
+    "title": {"type": "string", "minLength": 1},
+    "status": {"enum": ["development", "production", "review", "delivered", "archived"]},
+    "format": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": ["episode_duration_s", "aspect_ratio", "language"],
+      "properties": {
+        "episode_duration_s": {"type": "number", "exclusiveMinimum": 0},
+        "aspect_ratio": {"type": "string", "pattern": "^[1-9][0-9]*:[1-9][0-9]*$"},
+        "language": {"type": "string", "minLength": 2}
+      }
+    },
+    "providers": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": ["image", "video"],
+      "properties": {
+        "image": {"const": "lovart"},
+        "video": {"const": "lovart"}
+      }
+    }
+  }
+}

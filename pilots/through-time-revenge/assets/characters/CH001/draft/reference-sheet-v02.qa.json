@@ -1,0 +1,37 @@
+{
+  "job_id": "JOB-EP001-CH001-I02",
+  "verdict": "BLOCK",
+  "technical": {
+    "status": "PASS",
+    "format": "PNG",
+    "dimensions": "1008x1792",
+    "sha256": "e45b8062a88b3ea32bde2e258757eaca8396d9322881655fed754097fa5301bc"
+  },
+  "generation": {
+    "lovart_project_id": "2r4z2uqfdx4w",
+    "provider_shape_id": "shape:PhtAp1g96WaQ5cIqlxV86",
+    "model": "GPT Image 2",
+    "quality": "Medium",
+    "aspect_ratio": "9:16",
+    "actual_credits": 8,
+    "balance_before": 3244,
+    "balance_after": 3236
+  },
+  "improvements_over_v01": [
+    "All three body views now include the feet and full robe hem.",
+    "The robe now reads as subtly worn rather than pristine.",
+    "The requested four-view composition is present.",
+    "Overall age, build, eyes and restrained analytical demeanor remain suitable."
+  ],
+  "blocking_issues": [
+    "The mole remains on the character's own left eyebrow side and is not stable across visible face views.",
+    "The close-up may contain more than one dark facial dot.",
+    "Crown scale, silhouette and ornament differ across views.",
+    "Hairpin length and end shape drift across views.",
+    "Belt buckle, belt layers and hanging straps are not structurally identical across views.",
+    "The close-up face does not fully match the full-body face identity.",
+    "Regular horizontal garment wear marks risk reading as pseudo-text."
+  ],
+  "production_use": "Look-development and garment-weathering reference only. Do not promote to approved identity reference or use for continuity-critical video.",
+  "recommendation": "Stop repeated full-sheet regeneration. Create one canonical front identity anchor first, approve it, then derive individual back and three-quarter views with constrained image editing. Composite the approved views into a sheet deterministically."
+}

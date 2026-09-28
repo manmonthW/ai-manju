@@ -1,0 +1,32 @@
+{
+  "shot_id": "EP001-SH013",
+  "status": "approved_by_user",
+  "approved_path": "keyframes/EP001-SH013/approved/start-v01.png",
+  "source_job": "JOB-EP001-SH013-I01",
+  "provider_asset_id": "shape:20vniyQInHrB4jpjc7evf",
+  "sha256": "a9add78f9f09aea5c636965473c02bbf42f5529d4a41bf8f0034b620824bf103",
+  "dimensions": {"width": 1008, "height": 1792},
+  "generation": {"model": "GPT Image 2", "quality": "Medium", "aspect_ratio": "9:16", "reference_count": 4, "credits": 16, "balance_before": 2826, "balance_after": 2810},
+  "canonical_frame_traits": [
+    "萧策位于画面左侧前景稳定站立并向右观察沈岳",
+    "萧策深青墨绿暗纹长袍、黑金发冠、横簪和冷静计算表情",
+    "沈岳位于右侧中景并由恰好两名黑衣禁军分列控制",
+    "沈岳身体朝大殿深处而头向左后回望萧策",
+    "沈岳暗红官袍、黑色官帽和警惕不甘表情",
+    "画面没有出鞘、举起或使用中的武器",
+    "皇帝最多由远端御座与帘幕后暗影隐约暗示",
+    "金銮殿中央台阶、帘幕、柱列和地砖形成纵深轴线",
+    "主光实际来自画面右侧高窗的暖侧逆光"
+  ],
+  "i2v_constraints": [
+    "萧策保持挺拔静立和冷静计算感，不得冷笑、庆祝或大幅转头",
+    "沈岳保持身体向深处、头向左后回望，禁止颈部拉伸或整人反转",
+    "两名禁军持续各控一侧上臂，禁止增减人员、丢失抓握或三人肢体融合",
+    "押解步态短促克制，禁止脚底滑行、身体互穿、沈岳挣脱或摔倒",
+    "不得凭空生成刀剑、拔刀动作或把萧策横簪变成武器",
+    "皇帝继续保持帘幕后极模糊暗示，不得突然出现清晰脸部或动作",
+    "发冠、帽翼、横簪、宽袖和袍摆结构保持稳定",
+    "固定右侧高窗暖光、地面倒影、宫殿中轴和主体景深"
+  ],
+  "approval_note": "User requested direct collection and approval. Visual review is non-blocking continuity registration."
+}

@@ -1,0 +1,31 @@
+{
+  "shot_id": "EP001-SH014",
+  "status": "approved_with_user_directive",
+  "approved_path": "keyframes/EP001-SH014/approved/start-v01.png",
+  "source_job": "JOB-EP001-SH014-I01",
+  "provider_asset_id": "shape:bjYwrXfQMfBbgLOQCwheM",
+  "sha256": "d86d77a5d7f1e7737bc7d67e7a8e01b692b914e626faf241f1a1830f2f6b0942",
+  "dimensions": {"width": 1008, "height": 1792},
+  "generation": {"model": "GPT Image 2", "quality": "Medium", "aspect_ratio": "9:16", "reference_count": 5, "credits": 18, "balance_before": 3006, "balance_after": 2988},
+  "passed": [
+    "single phoenix private seal",
+    "single book/ledger",
+    "Xiao Ce dark-teal robe and basic identity",
+    "empress remains back-turned without readable facial features",
+    "seal and hairpin phoenix profiles point screen-left",
+    "pearl curtain, throne-hall stone floor and upper-left light are coherent",
+    "no extra character, magical glow or obvious hand intersection"
+  ],
+  "waived_issues": [
+    "Xiao Ce right-eyebrow-tail mole is absent or not legible",
+    "ledger pages read too blank to be a strong ledger identifier",
+    "Xiao Ce right hand reaches toward but does not contact or lift the seal"
+  ],
+  "downstream_rules": [
+    "Treat this image as composition and start-frame authority, not as authority for ledger page graphics",
+    "Restore the right-eyebrow-tail mole in close shots or deterministic post when visible",
+    "Add soft non-readable ledger grid marks in post if the page remains visible",
+    "I2V motion must complete the right-hand reach into one clean seal pickup without adding fingers or seals",
+    "Do not erase the original rejected QA event; this manifest records the user override"
+  ]
+}

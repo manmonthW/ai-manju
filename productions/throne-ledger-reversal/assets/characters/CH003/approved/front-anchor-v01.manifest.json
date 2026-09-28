@@ -1,0 +1,36 @@
+{
+  "asset_id": "CH003",
+  "name": "顾清霜",
+  "status": "approved_by_user",
+  "approved_path": "assets/characters/CH003/approved/front-anchor-v01.png",
+  "source_generation_job": "JOB-EP001-CH003-I01",
+  "sha256": "5d50f462bdae671423ac9db6724231db3139bb998518adc471a7a54c717e8118",
+  "technical": {"format": "PNG", "dimensions": [1008, 1792]},
+  "generation": {
+    "model": "GPT Image 2",
+    "parameters": "Medium · 9:16 · 1 img",
+    "actual_credits": 8,
+    "balance_before": 3088,
+    "balance_after": 3080,
+    "lovart_project_id": "2r4z2uqfdx4w",
+    "provider_shape_id": "shape:vBtsEbSJvyZSyIWZNi8yM"
+  },
+  "canonical_identity": [
+    "25-year-old tall lean woman with disciplined upright posture",
+    "narrow oval face, straight dark eyebrows and focused almond eyes",
+    "calm neutral forensic expression",
+    "center-parted black hair in a high compact bun",
+    "dark-metal low crown with one horizontal pin and plain end caps",
+    "deep navy judicial robe, charcoal inner collar and silver geometric edging",
+    "centered rectangular silver buckle",
+    "single dark evidence-tool case on anatomical left/screen-right",
+    "black round-toe boots"
+  ],
+  "continuity_normalization": [
+    "Never mirror the evidence-tool case to anatomical right.",
+    "Keep one centered small pale vertical crown motif; do not invent readable text.",
+    "Do not add bangs, loose romantic hair, jewelry, weapons or armor.",
+    "Preserve visible five-finger hands during seal-inspection shots.",
+    "Keep robe deep navy rather than teal, bright blue or black."
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "asset_id": "CH004",
+  "name": "裴昭宁",
+  "status": "approved_by_user",
+  "reference_scope": "episode-1 empress partial cliffhanger reference",
+  "approved_path": "assets/characters/CH004/approved/empress-partial-reference-v01.png",
+  "source_generation_job": "JOB-EP001-CH004-I01",
+  "provider_asset_id": "shape:hobsAVKFi38AVn4R02PQS",
+  "provider_reference_asset_id": "shape:6MnrASJP457m1J0XpTHtN",
+  "provider_url": "https://a.lovart.ai/artifacts/generator/C3fcs1o09h96Njqw.png",
+  "sha256": "cb8c02113e4530f147676b7e9e4a6827afcf3507d9682daa94846ecae124dea3",
+  "dimensions": {
+    "width": 1008,
+    "height": 1792
+  },
+  "generation": {
+    "model": "GPT Image 2",
+    "quality": "Medium",
+    "aspect_ratio": "9:16",
+    "count": 1,
+    "actual_credit_cost": 10,
+    "balance_before": 3056,
+    "balance_after": 3046
+  },
+  "canonical_traits": [
+    "皇后背对镜头，头转向画面左侧",
+    "只露下颌、下颊与颈侧，不展示可辨识眼鼻嘴",
+    "大型光滑高盘髻，无散乱碎发",
+    "凤簪凤头朝画面左侧，簪杆向右穿出",
+    "凤簪复用私印的后掠冠羽、分区翅羽、单体卷尾及黑铜暖金磨边语言",
+    "深黑褐至暗酒红礼服，黑金几何高领、袖缘与腰带",
+    "触印手仅以指尖轻触凤首冠羽上缘",
+    "多列珍珠帘在镜头前形成稳定遮挡",
+    "左前上方柔光，手部最亮，面部保持低照度"
+  ],
+  "continuity_constraints": [
+    "禁止镜像凤簪与私印的左向凤头",
+    "尾钩镜头不得突然露出皇后完整侧脸或正脸",
+    "凤簪与私印统一喙、眼位、冠羽根部、主羽层数及卷尾旋向",
+    "簪杆穿入髻体的位置和水平角度必须跨镜稳定",
+    "触印动作不得变成抓握、按压或提起",
+    "触印手左右归属确认前统一称为触印手",
+    "珍珠圆珠、水滴珠、列间距及遮挡层级必须保持连续",
+    "所有后续镜头保持左前上方主光与暗红、旧金、象牙白色盘"
+  ],
+  "non_blocking_deviations": [
+    "凤簪冠羽较纤长，私印冠羽较厚，后续近景需统一根部分叉逻辑",
+    "凤簪翅羽较窄而私印较宽，后续需锁定主羽层数和羽尖方向",
+    "凤簪卷尾较小而私印卷尾较圆，后续需保持相同卷曲方向",
+    "当前构图不足以百分之百判定触印手的解剖侧别"
+  ],
+  "approval_note": "User requested direct approval. Visual review is non-blocking registration and does not override that directive."
+}

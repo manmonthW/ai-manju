@@ -1,0 +1,39 @@
+{
+  "asset_id": "LOC001",
+  "name": "大曜金銮殿",
+  "status": "accepted",
+  "source_generation_job": "JOB-EP001-LOC001-I01",
+  "approved_path": "assets/locations/LOC001/approved/throne-hall-anchor-v01.png",
+  "sha256": "f3db3dcdcb09b9025d6a17ab581257a4fe09e9173bcb5f7f273b0c61396ea647",
+  "technical": {"format": "PNG", "dimensions": [1008, 1792]},
+  "generation": {
+    "model": "GPT Image 2",
+    "parameters": "Medium · 9:16 · 1 img",
+    "actual_credits": 8,
+    "balance_before": 3114,
+    "balance_after": 3106,
+    "lovart_project_id": "2r4z2uqfdx4w",
+    "provider_shape_id": "shape:6lka7WeT9Nq29bbbCwsP-"
+  },
+  "authority": [
+    "central aisle and vanishing point",
+    "paired vermilion column rhythm",
+    "raised imperial dais and pearl curtain",
+    "cold morning ambience and screen-right warm beam",
+    "blue-gray stone material and dark antique-gold beam palette",
+    "primary staging zones"
+  ],
+  "staging_map": {
+    "CH001_Xiao_Ce": "center foreground-to-middle ground kneeling and standing zone",
+    "CH002_Shen_Yue": "screen-left between the first and second column bays, slightly forward of Xiao Ce",
+    "CH003_Gu_Qingshuang": "screen-right official line before entering center for seal inspection",
+    "CH005_Emperor": "silhouette behind the far pearl curtain",
+    "guards": "both side aisles and rear approach",
+    "officials": "paired side galleries, kept visually subordinate"
+  },
+  "continuity_notes": [
+    "Keep the central aisle and floor-tile direction consistent across all 14 shots.",
+    "Do not randomly add or remove the paired lamp and ceremonial-object clusters.",
+    "Large reverse angles require an additional rear/side spatial reference before generation."
+  ]
+}

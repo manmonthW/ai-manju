@@ -1,0 +1,9 @@
+Create one canonical vertical 9:16 empty-environment anchor for the imperial throne hall of the fictional Great Yao dynasty. Premium realistic Chinese historical animated-drama look, designed for consistent reuse across an 80-second episode.
+
+Architecture: a long symmetrical central aisle of blue-gray stone, deep vermilion columns in paired rows, restrained dark-antique-gold beam structures, raised imperial dais at the far end, a translucent pearl curtain concealing the throne area, side galleries for two rows of court officials, and tall shadowed doors behind camera direction. Cold early-morning ambient light fills the hall while one controlled warm side beam enters from screen-right, producing long soft shadows and visible atmospheric depth.
+
+Camera and continuity map: eye height 1.45 meters from the central aisle, facing the imperial dais; 24mm equivalent lens; exact vertical composition with strong foreground stone floor, clear middle-ground court positions, and distant pearl curtain. Reserve the center foreground as Xiao Ce's kneeling and later standing zone. Reserve screen-left middle ground for Shen Yue. Reserve both side aisles for guards and blurred officials. Keep enough headroom for tall ancient crowns. No people in this environment anchor.
+
+Materials must feel used but maintained: lightly worn stone floor, muted red lacquer columns, dark aged metal details, no excessive palace luxury. Court authority should feel cold, severe and dangerous rather than festive.
+
+No readable plaque, calligraphy, characters, numbers, subtitles, logo, watermark, modern object, electric lamp, fantasy magic, floating particles, dragon overload, oversized throne, European architecture, people, guards, furniture clutter, asymmetrical column count, warped floor, duplicated doorway or fisheye distortion.

@@ -1,0 +1,33 @@
+{
+  "asset_id": "CH001-FRONT-ANCHOR-V01",
+  "character_id": "CH001",
+  "revision": 1,
+  "status": "approved",
+  "source_generation_job": "JOB-EP001-CH001-I03",
+  "source_generated_sha256": "a6a758be33ca3edd668f4daaa8857201f8c13e4187e4898c5d0ee528066424e9",
+  "approved_path": "assets/characters/CH001/approved/front-anchor-v01.png",
+  "approved_sha256": "96d5944c2f03d62a641f2ba00d2e2b2495eeeb91a4b05edb7dcf96f95a96a58b",
+  "deterministic_edits": [
+    {
+      "type": "identity-mark",
+      "description": "Added one 2px-radius natural mole at original-image coordinate (442,184), character-own right eyebrow tail, image-left.",
+      "color_rgb": [61, 39, 34],
+      "blur_radius": 0.45
+    }
+  ],
+  "identity_locks": [
+    "exact face geometry and jaw width",
+    "one mole at character-own right eyebrow tail only",
+    "medium dark-metal geometric crown",
+    "straight hairpin with matching plain capped ends",
+    "subtly worn deep teal brocade robe",
+    "centered square belt buckle",
+    "exactly two straps at character-left hip",
+    "simple black ancient boots"
+  ],
+  "qa": {
+    "verdict": "PASS",
+    "use": ["derived character views", "identity-critical image generation", "image-to-video reference"],
+    "warning": "Preserve the mole on the character's anatomical right side when generating rotated views; do not mirror by screen position."
+  }
+}

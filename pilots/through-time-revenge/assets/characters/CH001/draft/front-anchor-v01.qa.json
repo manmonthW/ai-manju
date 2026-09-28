@@ -1,0 +1,32 @@
+{
+  "job_id": "JOB-EP001-CH001-I03",
+  "verdict": "BLOCK",
+  "technical": {
+    "status": "PASS",
+    "format": "PNG",
+    "dimensions": "1008x1792",
+    "sha256": "a6a758be33ca3edd668f4daaa8857201f8c13e4187e4898c5d0ee528066424e9"
+  },
+  "generation": {
+    "lovart_project_id": "2r4z2uqfdx4w",
+    "provider_shape_id": "shape:vruPRDVdo7ysrUtgx9sLx",
+    "model": "GPT Image 2",
+    "quality": "Medium",
+    "aspect_ratio": "9:16",
+    "actual_credits": 8,
+    "balance_before": 3236,
+    "balance_after": 3228
+  },
+  "passed": [
+    "single character and single front full-body view",
+    "complete feet, robe hem and both visible hands",
+    "age, lean build, near-black narrow eyes and restrained analytical demeanor",
+    "subtly worn deep teal robe without tears",
+    "stable medium dark-metal crown and straight capped hairpin",
+    "centered buckle, layered dark-brown belt and exactly two straps on character-left hip",
+    "black boots and no visible anatomical defects",
+    "no text, watermark, modern item, armor, weapon or additional person"
+  ],
+  "blocking_issue": "The unique mole at the character's own right eyebrow tail is missing. In a front view it must appear on image-left as a distinct natural skin mark.",
+  "recommendation": "Do not regenerate the whole portrait. Add the missing mole through a deterministic local image edit, then visually review the edited identity anchor."
+}

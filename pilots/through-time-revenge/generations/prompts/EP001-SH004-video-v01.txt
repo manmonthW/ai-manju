@@ -1,0 +1,7 @@
+Animate the supplied start frame as a single continuous 5-second cinematic shot. Preserve the exact Xiao Ce identity, face, hair, crown, hairpin, deep teal robe, belt and imperial-court environment.
+
+First, Xiao Ce completes the sharp seizure of the single old ledger with his right hand while his left hand stabilizes the lower edge. Then he flips only one page toward camera, exposing two overlapping red seal impressions. Finally, he holds the open ledger perfectly steady and lifts his focused gaze from the seals toward the blurred crimson official at screen-left. End on a stable freeze-safe pose with the ledger open and both hands anatomically clear.
+
+Camera: one restrained slow push-in of less than ten percent, no pan, no orbit, no cut, no angle change. Keep the red sleeve soft and out of focus; keep background officials as stable indistinct silhouettes. Natural cloth follow-through only. The book, hands and sleeves must remain physically separate and causally connected.
+
+Do not generate or sharpen any writing, letters, numbers or readable seal characters; keep seal interiors abstract and visually soft. No second ledger, extra page stack, duplicated hands, extra fingers, fused fingers, hand-book fusion, face drift, costume drift, crown wobble, bending hairpin, background morphing, new people, visible second face, magic, particles, UI, subtitles, logo, watermark or camera shake.

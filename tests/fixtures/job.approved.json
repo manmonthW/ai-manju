@@ -1,0 +1,23 @@
+{
+  "schema_version": "1.0.0",
+  "job_id": "JOB-EP001-SH001-V01",
+  "modality": "video",
+  "provider": "lovart",
+  "source_ref": "EP001-SH001",
+  "prompt_ir_ref": "prompts/EP001-SH001.json",
+  "reference_bindings": [],
+  "parameters": {
+    "duration_s": 4,
+    "aspect_ratio": "9:16",
+    "audio": false
+  },
+  "outputs": ["generations/lovart/videos/EP001-SH001-v01.mp4"],
+  "overwrite": false,
+  "preview_hash": "sha256:aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa",
+  "approval": {
+    "status": "approved",
+    "scope": "single-job",
+    "approved_hash": "sha256:aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa"
+  },
+  "state": "approved"
+}

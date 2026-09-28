@@ -1,0 +1,15 @@
+{
+  "schema_version": "1.0.0",
+  "project_id": "TIME-REVENGE-PILOT",
+  "title": "我在朝堂直播抄家",
+  "status": "development",
+  "format": {
+    "episode_duration_s": 42,
+    "aspect_ratio": "9:16",
+    "language": "zh-CN"
+  },
+  "providers": {
+    "image": "lovart",
+    "video": "lovart"
+  }
+}

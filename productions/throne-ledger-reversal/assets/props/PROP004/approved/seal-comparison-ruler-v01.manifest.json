@@ -1,0 +1,36 @@
+{
+  "asset_id": "PROP004",
+  "name": "验印尺",
+  "status": "approved_by_user",
+  "approved_path": "assets/props/PROP004/approved/seal-comparison-ruler-v01.png",
+  "source_generation_job": "JOB-EP001-PROP004-I01",
+  "provider_asset_id": "shape:Owb7oRGGJ0it6JG-Qumdr",
+  "provider_url": "https://a.lovart.ai/artifacts/generator/EOrJdC4QG0BN2cu1.png",
+  "sha256": "39de39d117d6525d2d0cb16ef057f1f500b48a7d960703349c9660d742a814a5",
+  "dimensions": {"width": 1008, "height": 1792},
+  "generation": {"model": "GPT Image 2", "quality": "Medium", "aspect_ratio": "9:16", "count": 1, "actual_credit_cost": 8, "balance_before": 3014, "balance_after": 3006},
+  "canonical_traits": [
+    "单一细长厚实的深红褐至黑褐硬木验印尺",
+    "长宽比约六比一",
+    "两条长边为做旧暗金黄铜护边并带端部收口",
+    "同一条长边分布约六处三角形斜切定位凹口",
+    "靠近一端的木质面内只有一个贯穿圆孔",
+    "木面与黄铜均有克制划痕、氧化和长期使用磨损",
+    "无可辨识文字、数字、铭文或现代机构"
+  ],
+  "continuity_constraints": [
+    "SH008保持凹口位于同一条长边，不得镜像换边",
+    "保持约六处凹口及其大致分布，不得明显增减",
+    "单一圆孔固定在靠近一端的位置，不得移至中段或增加第二孔",
+    "不得变成浅木、塑料、全金属或现代透明尺",
+    "验印时尺边只覆盖红印边缘，不改变账册页码和双印位置",
+    "表面继续无文字、数字刻度和品牌"
+  ],
+  "non_blocking_deviations": [
+    "各凹口间距、宽度和深浅可有轻微手工差异",
+    "黄铜可在暗金、棕金和略偏黄之间小幅变化",
+    "圆孔可因透视呈圆形或轻微椭圆",
+    "远景中个别凹口可被手部或景深遮挡"
+  ],
+  "approval_note": "User explicitly directed immediate approval. Review is non-blocking registration."
+}

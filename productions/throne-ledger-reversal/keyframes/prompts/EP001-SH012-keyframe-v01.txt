@@ -1,0 +1,15 @@
+Create the canonical static keyframe for EP001-SH012, the public reversal line of a premium realistic Chinese historical animated drama, 9:16 vertical.
+
+Use approved references with strict ownership: CH001 controls Xiao Ce identity and dark-teal costume; CH002 controls Shen Yue identity and crimson official robe; CH003 controls Gu Qingshuang identity and dark-navy judicial uniform; PROP001 controls the single confiscation edict; PROP003 controls the single ledger; LOC001 controls the throne hall floor, architecture, axis and morning light. No identity blending.
+
+Frame the ending boundary of the shot. Extreme low floor-level view follows exactly one imperial edict after Xiao Ce has pushed it along the blue-gray stone floor. The edict has stopped immediately before kneeling Shen Yue; complete twin dark-red rods, aged ivory silk, soft vertical unreadable ink and one dark-red square seal remain consistent with PROP001. Shen Yue kneels in crimson official robes in the near-middle ground, visibly stripped of authority but not comic, his hands restrained near his thighs and not touching the edict.
+
+Behind him in stable focus stands Xiao Ce, lean 24-year-old man in dark-teal worn robe, right-eyebrow-tail mole, geometric dark-metal crown and horizontal pin. His right hand remains extended low with only two fingers just above the floor after the push; he does not step on the edict. His face is calm and controlled, delivering the reversal. At Xiao Ce's side-rear stands Gu Qingshuang in deep ink-navy judicial robes, holding exactly one closed-or-partly-closed canonical ledger securely against her torso; her evidence pouch remains on anatomical left. No page display is required.
+
+Composition and axis: the stopped edict and kneeling Shen Yue share the foreground; Xiao Ce is the dominant upright vertical behind; Gu Qingshuang is secondary at side-rear. Maintain the established axis with Shen Yue on Xiao Ce's left side of the hall. Distant pearl curtain and red pillars remain soft. 50–70mm equivalent compressed low angle, focus begins on the edict and carries to Xiao Ce's eyes.
+
+Light: cool morning shadows with restrained warm upper-left side light matching LOC001. Serious victory with an immediate remaining threat; no celebration.
+
+Continuity locks: one edict moving only along the floor, one ledger held by Gu Qingshuang, Shen Yue remains kneeling, Xiao Ce does not kick or step on the edict, two-finger push hand, right-eyebrow-tail mole, stable character axis, no readable writing.
+
+Forbidden: flying edict, kicked edict, second decree, extra ledger, readable text, subtitle, watermark, axis flip, Shen Yue standing, Gu Qingshuang glamour pose, emperor face, celebration, magical glow, extra hands or fused fingers.

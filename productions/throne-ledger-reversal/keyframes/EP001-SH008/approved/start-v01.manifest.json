@@ -1,0 +1,31 @@
+{
+  "shot_id": "EP001-SH008",
+  "status": "approved_by_user",
+  "approved_path": "keyframes/EP001-SH008/approved/start-v01.png",
+  "source_job": "JOB-EP001-SH008-I01",
+  "provider_asset_id": "shape:FvCgf3sC7f-8UHMiNrhe_",
+  "sha256": "f2cdb4bb27ccfdddf5f5245b8d0c27ebf2cfc6d0a51c5b65c7c2aa2afe607169",
+  "dimensions": {"width": 1008, "height": 1792},
+  "generation": {"model": "GPT Image 2", "quality": "Medium", "aspect_ratio": "9:16", "reference_count": 4, "credits": 16, "balance_before": 2988, "balance_after": 2972},
+  "canonical_frame_traits": [
+    "顾清霜正面居中、冷静专业、深藏蓝司法官服",
+    "高髻、低矮金属发冠与水平横簪",
+    "唯一证物袋位于角色自身左腰",
+    "人物右手位于画面左侧并压持验印尺",
+    "人物左手位于画面右下并托住账册下缘",
+    "单一展开账册、稳定跨页和靠近中缝的两枚红印",
+    "单一深褐验印尺、黄铜边、左端圆孔和右端半圆定位缺口",
+    "朱红立柱、纵深中轴和画面左上方体积光"
+  ],
+  "i2v_constraints": [
+    "禁止交换左右手或镜像证物袋位置",
+    "保持两枚红印数量、重叠关系和中缝位置",
+    "验印尺圆孔与凹口不得消失、换边或变形",
+    "右手食指只沿尺身小幅校准，不得与工具或书页融合",
+    "账册不自行翻页，背景官员只做轻微待机",
+    "发冠、横簪、官服滚边与左腰证物袋不得闪变",
+    "主光持续来自画面左上方",
+    "建议仅使用微弱推近、呼吸、眨眼和手指校准动作"
+  ],
+  "approval_note": "User requested direct collect and approval. Visual review is non-blocking continuity registration."
+}

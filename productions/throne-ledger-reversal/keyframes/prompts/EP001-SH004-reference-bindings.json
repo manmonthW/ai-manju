@@ -1,0 +1,13 @@
+{
+  "shot_id": "EP001-SH004",
+  "job_id": "JOB-EP001-SH004-I01",
+  "prompt_ref": "keyframes/prompts/EP001-SH004-keyframe-v01.txt",
+  "reference_upload_order": [
+    {"asset_id": "CH001", "role": "Xiao Ce identity, kneeling costume and facial continuity only", "path": "../../pilots/through-time-revenge/assets/characters/CH001/approved/front-anchor-v01.png"},
+    {"asset_id": "CH002", "role": "Shen Yue identity, crimson over-shoulder foreground and reaction only", "path": "assets/characters/CH002/approved/front-anchor-v01.png"},
+    {"asset_id": "CH005", "role": "concealed seated emperor silhouette and pearl curtain only", "path": "assets/characters/CH005/approved/emperor-partial-reference-v01.png"},
+    {"asset_id": "LOC001", "role": "throne hall architecture, fixed axis and lighting only", "path": "assets/locations/LOC001/approved/throne-hall-anchor-v01.png"}
+  ],
+  "binding_status": "requires_manual_windows_file_picker_upload",
+  "generation": {"model": "GPT Image 2", "quality": "Medium", "aspect_ratio": "9:16", "count": 1}
+}

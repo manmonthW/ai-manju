@@ -1,0 +1,52 @@
+{
+  "job_id": "JOB-EP001-SH004-V01",
+  "verdict": "PASS",
+  "status": "accepted",
+  "technical": {
+    "format": "MP4",
+    "duration_s": 5.06195,
+    "size_bytes": 1883508,
+    "bit_rate": 2976731,
+    "video": {
+      "codec": "h264",
+      "dimensions": [720, 1280],
+      "fps": 24,
+      "pixel_format": "yuv420p"
+    },
+    "audio": {
+      "codec": "aac",
+      "note": "An AAC stream exists although audio was requested off; no audible content was detected in the verification probe."
+    },
+    "sha256": "dcc288419c1ae45b2ac2d5afcae4f91846941b925d7e9eddabe60655ac2fc3cd"
+  },
+  "generation": {
+    "lovart_project_id": "2r4z2uqfdx4w",
+    "provider_shape_id": "shape:p512ELh6wZqsd-dXjuVfC",
+    "provider_asset_url": "https://a.lovart.ai/artifacts/generator/y1BwDHI6XiGYowGq.mp4",
+    "model": "Seedance 2.0",
+    "configured_parameters": "Auto · 5s · 720p",
+    "actual_credits": 90,
+    "balance_before": 3204,
+    "balance_after": 3114
+  },
+  "qa_passed": [
+    "The five-second story beat reads as ledger seizure, stabilization, one-page turn and gaze lift toward screen-left.",
+    "Xiao Ce identity, face, crown and costume remain stable across sampled frames.",
+    "Only one ledger remains present and only one principal page turns.",
+    "Hands and ledger remain separate without a blocking fusion or duplicated hand.",
+    "No blocking character, costume, camera or background drift appears in the one-second contact sheet.",
+    "The shot is suitable for the Pilot despite a compressed instantaneous seizure motion."
+  ],
+  "known_non_blocking_issues": [
+    "The instantaneous force and counterparty release of the seizure are compressed at one-second sampling.",
+    "Pseudo-character detail remains in the red seals and should not be held for a long readable close-up.",
+    "The final frame is usable for a short cut or dissolve but not ideal for an extended freeze because the left hand is partly occluded."
+  ],
+  "artifacts": {
+    "video": "generations/lovart/videos/EP001-SH004-v01.mp4",
+    "contact_sheet": "generations/lovart/videos/EP001-SH004-v01-qa/contact-sheet.jpg",
+    "first_frame": "generations/lovart/videos/EP001-SH004-v01-qa/frame-000.jpg",
+    "mid_frame": "generations/lovart/videos/EP001-SH004-v01-qa/frame-2500.jpg",
+    "last_frame": "generations/lovart/videos/EP001-SH004-v01-qa/frame-4900.jpg"
+  }
+}

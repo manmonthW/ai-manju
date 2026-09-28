@@ -1,0 +1,35 @@
+{
+  "shot_id": "EP001-SH009",
+  "status": "approved_by_user",
+  "approved_path": "keyframes/EP001-SH009/approved/start-v01.png",
+  "source_job": "JOB-EP001-SH009-I01",
+  "provider_asset_id": "shape:f4zx_WHOMRWk5FelSDGWm",
+  "sha256": "2689fd52d7a8c5476c772e888f5197831606e71c22c58ba9addcc1f356621947",
+  "dimensions": {"width": 1008, "height": 1792},
+  "generation": {"model": "GPT Image 2", "quality": "Medium", "aspect_ratio": "9:16", "reference_count": 4, "credits": 16, "balance_before": 2842, "balance_after": 2826},
+  "canonical_frame_traits": [
+    "萧策位于左下前景低位并向右上回视沈岳",
+    "萧策深青暗纹宽袖官服、长发束冠和嘴角血痕",
+    "萧策双手持唯一一本半合旧账册",
+    "沈岳位于右侧完整站立并向左下俯视萧策",
+    "沈岳深红纹饰朝服、黑色官帽、短须和严厉多疑表情",
+    "沈岳靠近萧策的一只手停在半空且未接触萧策或账册",
+    "中央御道、台阶和帘幕后高位形成纵向宫殿轴线",
+    "主光实际来自画面右侧高窗"
+  ],
+  "non_blocking_deviations": [
+    "顾清霜在侧后方未形成清晰可唯一识别的女性角色",
+    "背景百官只呈少量模糊侍立轮廓"
+  ],
+  "i2v_constraints": [
+    "账册保持唯一一本和半合状态，不得自动开合、增殖或纸页穿插",
+    "萧策双手持续握住账册，禁止换握、离册、增指或融合",
+    "沈岳悬空指控手不得触碰、抓取、扇打或变成多余肢体",
+    "维持萧策向右上与沈岳向左下的对峙视线",
+    "萧策嘴角血痕不得游移、扩散、换侧或消失",
+    "顾清霜不得在动画中突然成为前景主角或改变身份",
+    "背景官员数量与位置不得闪烁、漂移或突然清晰化",
+    "固定中央建筑轴线、右侧高窗暖光和地面反射"
+  ],
+  "approval_note": "User requested immediate collection without fixed waiting, then direct approval. Visual review is non-blocking continuity registration."
+}

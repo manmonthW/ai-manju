@@ -1,0 +1,37 @@
+{
+  "asset_id": "PROP002",
+  "name": "禁军刀",
+  "status": "approved_by_user",
+  "approved_path": "assets/props/PROP002/approved/imperial-guard-saber-v01.png",
+  "source_generation_job": "JOB-EP001-PROP002-I02",
+  "provider_asset_id": "shape:iiaymOSehQIf9AE0HZJ8m",
+  "provider_url": "https://a.lovart.ai/artifacts/generator/olHLg8FCmSBUd0wn.png",
+  "sha256": "74bf189c89f9e0b327d5c29b3511aedb7a1a3031cc300d0d21002380bfbef2d4",
+  "dimensions": {"width": 1008, "height": 1792},
+  "generation": {"model": "GPT Image 2", "quality": "Medium", "aspect_ratio": "9:16", "count": 1, "actual_credit_cost": 8, "balance_before": 3022, "balance_after": 3014},
+  "canonical_traits": [
+    "恰好一把轻微弯曲的窄幅单刃长刀与一个匹配刀鞘",
+    "深灰黑化钢身、窄亮刃口与偏置斜削刀尖",
+    "小型暗铜椭圆盘护手",
+    "黑色横向缠绳握柄与多面体暗铜刀首",
+    "深红棕漆木刀鞘与暗铜套口、加固箍和多面鞘尾",
+    "刀鞘上段只有一个可见圆形佩挂环",
+    "刀鞘长度略大于有效刀身长度且曲率匹配"
+  ],
+  "continuity_constraints": [
+    "SH002、SH006、SH010、SH011保持一刀一鞘",
+    "不得新增第二佩挂环、挂绳、流苏或额外刀具",
+    "刀尖始终为偏置斜削形，不得变成中央双刃尖、钩尖或圆头",
+    "小型椭圆护手不得扩大成十字护手",
+    "握柄保持横向缠绳，不得变成日式菱形缠柄",
+    "刀与鞘曲率和收尖方向必须一致",
+    "作为前景刀锋时只增强边缘分离，不改变刀身结构"
+  ],
+  "non_blocking_deviations": [
+    "镜头透视可造成约百分之二的长度和宽度变化",
+    "佩挂环可随重力摆动五至十度",
+    "缠绳可出现单圈级遮挡或压缩",
+    "金属旧化斑点和刃口高光位置可随光线小幅变化"
+  ],
+  "approval_note": "User explicitly directed approval of newly generated PROP002. Review is non-blocking registration."
+}

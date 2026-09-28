@@ -1,0 +1,30 @@
+{
+  "shot_id": "EP001-SH004",
+  "status": "approved_by_user",
+  "approved_path": "keyframes/EP001-SH004/approved/start-v01.png",
+  "source_job": "JOB-EP001-SH004-I01",
+  "provider_asset_id": "shape:f_TgDR4qnFd7bSD_ibHJJ",
+  "sha256": "4de4e5027e8f647db97fa323cf340c88dc1ea7b4f3a9c8c687b7cd9a8e30df56",
+  "dimensions": {"width": 1008, "height": 1792},
+  "generation": {"model": "GPT Image 2", "quality": "Medium", "aspect_ratio": "9:16", "reference_count": 4, "credits": 16, "balance_before": 2874, "balance_after": 2858},
+  "canonical_frame_traits": [
+    "沈岳位于画面左前景，以红袍黑冠过肩构图面对萧策",
+    "萧策位于中近景偏右，双膝跪地、身体挺直",
+    "萧策深青黑暗纹长袍、束腰冠发、嘴角血迹与冷峻克制表情",
+    "皇帝居于后方高台中央并被密集珠帘遮挡为端坐剪影",
+    "沈岳—萧策构成对峙轴，萧策—皇帝构成中央权力纵深轴",
+    "金銮殿御阶、珠帘、雕饰栏板、宫灯和抛光石地清晰",
+    "主光实际来自画面右后方"
+  ],
+  "i2v_constraints": [
+    "珠帘只做低频微动，禁止闪烁、粘连、摩尔纹或乱摆",
+    "皇帝剪影、冠形和端坐位置不得漂移或穿透珠帘",
+    "萧策保持双膝跪姿，袍摆、右手和膝腿不得穿插变形",
+    "嘴角血迹不得跳动、扩散、换侧或消失",
+    "冠饰、横簪和发丝不得抖动、增生或穿模",
+    "沈岳红袍肩背纹样与遮挡边缘保持稳定，不得吞没主体",
+    "群臣、宫灯、台阶和栏杆只允许微小待机，不得漂移抢戏",
+    "按本帧保持右后方体积光、长投影和地面倒影方向"
+  ],
+  "approval_note": "User requested direct collect and approval. Visual review is non-blocking continuity registration."
+}

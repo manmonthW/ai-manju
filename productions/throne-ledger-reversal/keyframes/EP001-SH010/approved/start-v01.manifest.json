@@ -1,0 +1,32 @@
+{
+  "shot_id": "EP001-SH010",
+  "status": "approved_by_user",
+  "approved_path": "keyframes/EP001-SH010/approved/start-v01.png",
+  "source_job": "JOB-EP001-SH010-I01",
+  "provider_asset_id": "shape:kn4HhslyBvfy4JCqa_NDH",
+  "sha256": "97f311bc61ba8143b104d7b3bc1df453c1ed32b737c94d92dd369249be3269a6",
+  "dimensions": {"width": 1008, "height": 1792},
+  "generation": {"model": "GPT Image 2", "quality": "Medium", "aspect_ratio": "9:16", "reference_count": 3, "credits": 14, "balance_before": 2936, "balance_after": 2922},
+  "canonical_frame_traits": [
+    "皇帝中轴端坐于高台深色御座，不站起",
+    "密集珠帘与阴影遮挡皇帝五官",
+    "皇帝解剖学右手位于画面左侧并抬至胸前做命令手势",
+    "解剖学左手位于画面右侧并压放御座扶手",
+    "深色礼冠带横向冠顶构件，冠袍为黑褐与暗金纹样",
+    "前景禁军头部朝向御座，眼球不可清晰辨认",
+    "画面中只有一把仍在鞘中的禁军刀",
+    "主光实际来自画面右侧窗格的暖侧逆光"
+  ],
+  "i2v_constraints": [
+    "珠帘仅做低频轻微摆动，禁止断裂、粘连、穿脸或无风乱摆",
+    "皇帝五官不得被补全、换脸或突然变得清晰",
+    "右手保持五指命令掌形，动作幅度小，禁止增指、融合或反折",
+    "左手与扶手接触点固定，禁止融入扶手或袖口穿模",
+    "冠顶横件、领襟、腰带、金纹和袍摆不得改款",
+    "御座扶手与台阶几何不得呼吸融化",
+    "禁军不得回头看镜头或突然生成清晰正脸",
+    "唯一佩刀必须持续入鞘，禁止自动拔刀、复制或出现额外刀刃",
+    "按本帧保持画面右侧主光、珠帘高光和地面反射"
+  ],
+  "approval_note": "User requested direct collect and approval. Visual review is non-blocking continuity registration."
+}

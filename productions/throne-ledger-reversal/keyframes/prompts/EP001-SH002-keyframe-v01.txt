@@ -1,0 +1,15 @@
+Create the canonical static keyframe for EP001-SH002, Xiao Ce's death-row close-up, in a premium realistic Chinese historical animated drama, 9:16 vertical.
+
+Use approved references with strict ownership: CH001 controls Xiao Ce identity, lean 24-year-old face, anatomical right-eyebrow-tail mole, dark-teal worn robe, geometric dark-metal crown and straight horizontal pin; CH002 controls only Shen Yue's established crimson official position and partial silhouette on the left side of the axis; PROP002 controls only the standardized imperial guard saber blade/hilt language; LOC001 controls the Great Yao throne hall architecture, blue-gray polished stone floor, red pillars, dark-gold framing, axis and morning directional light. Do not blend faces or let weapons redesign costumes.
+
+Frame the end boundary after Xiao Ce has slowly raised his eyes toward Shen Yue. Xiao Ce remains fully in a two-knee kneel at the center of the hall; he does not stand. Use a frontal medium close-up from slightly above his kneeling eye level, 50mm equivalent, with a restrained slow-push composition already settled. Preserve the single small mole at the tail of his anatomical right eyebrow, located screen-left; keep a short blood trace at one corner of his mouth. His expression is controlled, analytical and defiant rather than crying or shouting. Dark-teal worn robe, charcoal inner layer, geometric dark-metal crown and straight horizontal pin remain stable.
+
+Two out-of-focus imperial guard saber blades descend only into the extreme foreground edges, one from each side, creating a visual cage around Xiao Ce without touching him. Exactly two blade edges, no more. Both blades remain physically outside his body silhouette and do not cross each other. The guards themselves stay off-frame except for minimal blurred gauntlet/hilt hints.
+
+Shen Yue occupies the background-left side of the established axis as a soft crimson official silhouette or cropped shoulder/robe shape only; his face is not the primary read. Xiao Ce's eyeline locks toward him. Background officials remain soft, static and non-identifiable.
+
+Camera and light: frontal 50mm medium close-up, shallow depth of field, Xiao Ce's eyes and facial identity sharp, foreground blade edges soft but recognizable, hall background restrained. Maintain the accepted sequence's right-side/right-rear directional morning light, with controlled cool shadows and warm rim on robe and hair. No camera shake.
+
+Continuity locks: Xiao Ce remains kneeling; right-eyebrow-tail mole screen-left; short mouth blood trace; two foreground saber edges only; Shen Yue remains axis-left; no extra protagonist; no blade contact.
+
+Forbidden: Xiao Ce standing, left-right mole swap, missing mole, exaggerated crying, screaming, comedy, blade piercing a person, crossed blades, more than two blades, full extra face, modern object, readable text, subtitle, watermark, magical light, duplicated hands or weapon fusion.

@@ -1,0 +1,35 @@
+{
+  "asset_id": "PROP001",
+  "name": "抄家圣旨",
+  "status": "approved_by_user",
+  "approved_path": "assets/props/PROP001/approved/imperial-edict-v01.png",
+  "source_generation_job": "JOB-EP001-PROP001-I02",
+  "provider_asset_id": "shape:Ur6DFjzaYuWeXAEW42e39",
+  "provider_url": "https://a.lovart.ai/artifacts/generator/MK30KINuriLeuFa5.png",
+  "sha256": "30bfae3e15b1cfb1df05fe8c183b2826c55289632b4a316c9f6506b93a5be601",
+  "dimensions": {"width": 1008, "height": 1792},
+  "generation": {"model": "GPT Image 2", "quality": "Medium", "aspect_ratio": "9:16", "count": 1, "actual_credit_cost": 8, "balance_before": 3030, "balance_after": 3022},
+  "canonical_traits": [
+    "单一横向展开的旧化皇家诏令卷轴",
+    "两侧深红褐木轴与圆钝轴头完整",
+    "轴身靠卷面处带克制的旧黄铜箍",
+    "米黄旧绢、明显折皱、毛边与下缘缺口",
+    "约七至八列不可读竖排黑墨",
+    "卷面左下固定一枚暗朱红方印",
+    "左上方柔光与右下方接触阴影"
+  ],
+  "continuity_constraints": [
+    "SH001和SH012共用同一文字列数、折皱、下缘破损与红印位置",
+    "不得把墨迹或红印锐化成可读伪文字",
+    "不得改变木轴颜色、轴径、轴头轮廓和黄铜箍宽度",
+    "圣旨必须始终与石地接触，不得悬浮或飞起",
+    "萧策只可用两指沿地面推行，不得踩踏或踢动"
+  ],
+  "non_blocking_deviations": [
+    "卷面同时带有丝帛、粗布与旧纸的混合质感",
+    "轴体偏厚重，近景需避免进一步夸大",
+    "朱印内部为概念化结构，特写时保持柔化",
+    "旧化程度较高，按本剧泛古代影视化诏令使用"
+  ],
+  "approval_note": "User explicitly directed approval of the newly generated PROP001. Review is non-blocking registration."
+}

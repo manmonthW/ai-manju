@@ -1,0 +1,13 @@
+{
+  "shot_id": "EP001-SH011",
+  "job_id": "JOB-EP001-SH011-I01",
+  "prompt_ref": "keyframes/prompts/EP001-SH011-keyframe-v01.txt",
+  "reference_upload_order": [
+    {"asset_id": "CH002", "role": "Shen Yue identity and crimson official costume only", "path": "assets/characters/CH002/approved/front-anchor-v01.png"},
+    {"asset_id": "PROP002", "role": "sheathed imperial guard saber/scabbard language only", "path": "assets/props/PROP002/approved/imperial-guard-saber-v01.png"},
+    {"asset_id": "PROP001", "role": "single edict topology and twin rods only", "path": "assets/props/PROP001/approved/imperial-edict-v01.png"},
+    {"asset_id": "LOC001", "role": "throne hall stone floor, architecture, axis and light only", "path": "assets/locations/LOC001/approved/throne-hall-anchor-v01.png"}
+  ],
+  "binding_status": "requires_manual_windows_file_picker_upload",
+  "generation": {"model": "GPT Image 2", "quality": "Medium", "aspect_ratio": "9:16", "count": 1}
+}

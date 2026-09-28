@@ -1,0 +1,83 @@
+{
+  "schema_version": "1.0.0",
+  "episode_id": "EP001",
+  "target_duration_s": 80,
+  "status": "planned",
+  "strategy": "Generate I2V only for shots whose motion cannot be delivered reliably with deterministic editorial animation. Use controlled 2.5D motion for dialogue/reaction shots, and reuse the accepted Pilot video for SH006-SH007.",
+  "paid_i2v_priority": [
+    {
+      "shot_id": "EP001-SH014",
+      "duration_s": 6,
+      "start_frame": "keyframes/EP001-SH014/approved/start-v01.png",
+      "motion_objective": "The phoenix private seal falls and settles, Xiao Ce lifts it with fingertips, then cut to the empress hand and phoenix hairpin match.",
+      "risk": "highest"
+    },
+    {
+      "shot_id": "EP001-SH011",
+      "duration_s": 5,
+      "start_frame": "keyframes/EP001-SH011/approved/start-v01.png",
+      "motion_objective": "Shen Yue drops to both knees while exactly two guards close and secure his shoulders.",
+      "risk": "high"
+    },
+    {
+      "shot_id": "EP001-SH013",
+      "duration_s": 7,
+      "start_frame": "keyframes/EP001-SH013/approved/start-v01.png",
+      "motion_objective": "Exactly two guards escort Shen Yue toward the doors while his torso keeps moving away and his head turns back; Xiao Ce remains still and calculating.",
+      "risk": "high"
+    },
+    {
+      "shot_id": "EP001-SH012",
+      "duration_s": 6,
+      "start_frame": "keyframes/EP001-SH012/approved/start-v01.png",
+      "motion_objective": "The imperial edict slides along the stone floor to Shen Yue without lifting; focus rises to Xiao Ce.",
+      "risk": "high"
+    },
+    {
+      "shot_id": "EP001-SH008",
+      "duration_s": 7,
+      "start_frame": "keyframes/EP001-SH008/approved/start-v01.png",
+      "motion_objective": "Gu Qingshuang aligns the seal-comparison ruler over the two red seals, stops at the missing-claw notch, then lifts her gaze.",
+      "risk": "high"
+    },
+    {
+      "shot_id": "EP001-SH010",
+      "duration_s": 5,
+      "start_frame": "keyframes/EP001-SH010/approved/start-v01.png",
+      "motion_objective": "The concealed emperor completes one restrained right-hand command gesture; the foreground guard shifts gaze without drawing the saber.",
+      "risk": "medium-high"
+    },
+    {
+      "shot_id": "EP001-SH001",
+      "duration_s": 4,
+      "start_frame": "keyframes/EP001-SH001/approved/start-v01.png",
+      "motion_objective": "The imperial edict lands and settles on the stone; Xiao Ce's bloodied hand enters but does not touch it.",
+      "risk": "medium-high"
+    }
+  ],
+  "editorial_motion_shots": [
+    {"shot_id": "EP001-SH002", "duration_s": 5, "method": "slow push-in, foreground-blade parallax, eye lift and subtle breath"},
+    {"shot_id": "EP001-SH003", "duration_s": 5, "method": "eye push-in plus three deterministic flash overlays; lock two-ledger approved fact"},
+    {"shot_id": "EP001-SH004", "duration_s": 7, "method": "restrained push-in, Shen Yue foreground micro-parallax, pearl-curtain low-frequency motion"},
+    {"shot_id": "EP001-SH005", "duration_s": 5, "method": "slow push, subtle Xiao Ce eye lift and background-official reaction; do not invent ledger"},
+    {"shot_id": "EP001-SH009", "duration_s": 6, "method": "restrained push, suspended-hand micro-motion, lock single half-closed ledger"}
+  ],
+  "reuse_shots": [
+    {
+      "shot_id": "EP001-SH006",
+      "duration_s": 6,
+      "source": "../../../pilots/through-time-revenge/generations/lovart/videos/EP001-SH004-v01.mp4",
+      "source_range_s": [0.0, 2.2],
+      "delivery_method": "retime to 6 seconds, remove empty AAC audio stream"
+    },
+    {
+      "shot_id": "EP001-SH007",
+      "duration_s": 6,
+      "source": "../../../pilots/through-time-revenge/generations/lovart/videos/EP001-SH004-v01.mp4",
+      "source_range_s": [2.2, 5.06195],
+      "delivery_method": "retime to 6 seconds, soften/replace pseudo-text in seals, remove empty AAC audio stream"
+    }
+  ],
+  "next_job": "JOB-EP001-SH014-V01",
+  "paid_generation_requires_live_lovart_preview": true
+}

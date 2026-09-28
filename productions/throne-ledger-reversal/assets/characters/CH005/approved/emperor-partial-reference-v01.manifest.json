@@ -1,0 +1,37 @@
+{
+  "asset_id": "CH005",
+  "name": "萧承乾",
+  "status": "approved_by_user",
+  "reference_scope": "episode-1 partial emperor reference",
+  "approved_path": "assets/characters/CH005/approved/emperor-partial-reference-v01.png",
+  "source_generation_job": "JOB-EP001-CH005-I01",
+  "sha256": "28b8ebe0827bbcf3a5492bd57f06d4d42cb6946ce869abdb8be5fa9ac5ff4dc9",
+  "technical": {"format": "PNG", "dimensions": [1008, 1792]},
+  "generation": {
+    "model": "GPT Image 2",
+    "parameters": "Medium · 9:16 · 1 img",
+    "actual_credits": 8,
+    "balance_before": 3064,
+    "balance_after": 3056,
+    "lovart_project_id": "2r4z2uqfdx4w",
+    "provider_shape_id": "shape:86FxdXdUAEv-CkAJ0t1Bg"
+  },
+  "canonical_structure": [
+    "emperor seated upright behind dense warm-ivory vertical pearl strands",
+    "character right hand appears screen-left and is raised at lower-chest height",
+    "raised palm angles down and forward in a restrained stop/order gesture",
+    "character left hand appears screen-right and rests on the throne armrest",
+    "near-black charcoal robe, dark burgundy inner collar and restrained antique-gold geometric trim",
+    "tall dark rectangular ceremonial crown with horizontal side elements",
+    "dark square-geometry throne",
+    "warm key/rim from screen-right with low frontal illumination"
+  ],
+  "continuity_normalization": [
+    "Never mirror the raised hand: it remains anatomical right/screen-left in the frontal composition.",
+    "Keep exactly five readable fingers and avoid pearl strands following finger edges.",
+    "Preserve the face as coherent but approximately sixty-percent perceptually obscured; eyes stay unreadable.",
+    "Keep pearl strands independent from the crown rather than growing from it.",
+    "Maintain screen-right warm light and screen-left low exposure.",
+    "Use this asset only for silhouette, costume, throne, curtain and command gesture; it is not a clear face identity anchor."
+  ]
+}

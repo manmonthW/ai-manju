@@ -1,0 +1,19 @@
+Create the canonical static keyframe for EP001-SH009, Shen Yue's failed counterattack and Xiao Ce's second suppression, in a premium realistic Chinese historical animated drama, 9:16 vertical.
+
+Use approved references with strict ownership: CH001 controls Xiao Ce identity, dark-teal worn robe, facial marker, crown and straight horizontal pin; CH002 controls Shen Yue identity, crimson official robe, dark official crown and restrained antagonist expression; PROP003 controls only the single old relief-grain ledger held by Xiao Ce; LOC001 controls throne-hall architecture, fixed axis, polished blue-gray stone, red pillars and directional morning light. Do not blend identities, costumes or backgrounds.
+
+Frame the exact end boundary after Xiao Ce calmly says that a dead man cannot demand review. Use a restrained two-person confrontation medium shot. Xiao Ce occupies the left-to-center lower plane and remains slightly lower than Shen Yue, either finishing a controlled rise from kneeling or holding a stable low stance; he does not retreat. His composition is visually steadier and more centered than Shen Yue's. Preserve his lean 24-year-old identity, dark-teal worn robe, geometric dark-metal crown, straight horizontal pin, approved facial-marker placement and short mouth blood trace when visible. His expression is cold, analytical and certain, never triumphant.
+
+Xiao Ce holds exactly one old ledger in both hands at lower chest/upper-waist height. The ledger is half-closed: covers separated by a narrow wedge, no loose pages, no second book, no readable writing, no exposed red seals. His hands remain anatomically distinct from the covers.
+
+Shen Yue stands at frame-right on the established axis, one controlled step forward, crimson sleeve settling after a sharp outward sweep. His accusing hand has stopped in midair before reaching Xiao Ce, fingers readable but not pointing into the face. His expression shows anger checked by sudden calculation; he remains standing and is not yet arrested or kneeling. No physical contact.
+
+Gu Qingshuang may appear only as a small, softly blurred dark-ink-blue official silhouette at the side-rear plane, consistent with the shot contract; she does not hold evidence and does not become a third protagonist. Background court officials are silent and static.
+
+Composition and camera: fixed-axis 50mm-equivalent medium two-shot, Xiao Ce slightly lower but visually stable, Shen Yue taller yet compositionally off-balance at right. Preserve the throne-hall depth and previous left-right relationship. No orbit, no axis reversal.
+
+Light: cool morning ambience with restrained warm right-side/right-rear directional light, consistent with adjacent accepted shots. Keep polished stone reflections stable and subdued.
+
+Continuity locks: Xiao Ce and Shen Yue retain the established axis; exactly one ledger remains in Xiao Ce's hands; ledger half-closed; Gu Qingshuang stays side-rear; Shen Yue stands; Xiao Ce does not celebrate.
+
+Forbidden: physical fight, touching, Shen Yue kneeling early, guards restraining Shen Yue, new evidence, second ledger, readable text, ledger flying, loose pages, exposed red seals, Gu Qingshuang dominating frame, modern gesture, HUD, subtitle, watermark, magical glow, duplicated hands, fused fingers/book or axis flip.

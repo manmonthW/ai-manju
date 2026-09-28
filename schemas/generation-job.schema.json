@@ -1,0 +1,38 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://local.invalid/ai-comic-drama/generation-job.schema.json",
+  "title": "Generation Job",
+  "type": "object",
+  "additionalProperties": false,
+  "required": ["schema_version", "job_id", "modality", "provider", "source_ref", "prompt_ir_ref", "reference_bindings", "parameters", "outputs", "overwrite", "preview_hash", "approval", "state"],
+  "properties": {
+    "schema_version": {"const": "1.0.0"},
+    "job_id": {"type": "string", "pattern": "^JOB-[A-Z0-9-]+$"},
+    "modality": {"enum": ["image", "video"]},
+    "provider": {"const": "lovart"},
+    "source_ref": {"type": "string", "minLength": 1},
+    "prompt_ir_ref": {"type": "string", "pattern": "^(?!/)(?!.*(?:^|/)\\.\\.(?:/|$)).+$"},
+    "reference_bindings": {"type": "array", "items": {"type": "object"}},
+    "parameters": {"type": "object"},
+    "outputs": {
+      "type": "array",
+      "minItems": 1,
+      "maxItems": 16,
+      "uniqueItems": true,
+      "items": {"type": "string", "pattern": "^(?!/)(?!.*(?:^|/)\\.\\.(?:/|$)).+[^/]$"}
+    },
+    "overwrite": {"type": "boolean"},
+    "preview_hash": {"type": "string", "pattern": "^sha256:[a-f0-9]{64}$"},
+    "approval": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": ["status", "scope", "approved_hash"],
+      "properties": {
+        "status": {"enum": ["pending", "approved", "consumed", "invalidated"]},
+        "scope": {"enum": ["single-job", "bounded-batch"]},
+        "approved_hash": {"type": "string", "pattern": "^sha256:[a-f0-9]{64}$"}
+      }
+    },
+    "state": {"enum": ["draft", "reviewed", "approved", "queued", "submitted", "collecting", "generated", "qa_passed", "accepted", "rejected", "failed", "cancelled", "superseded"]}
+  }
+}

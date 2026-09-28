@@ -1,0 +1,36 @@
+{
+  "job_id": "JOB-EP001-CH001-I01",
+  "verdict": "BLOCK",
+  "technical": {
+    "status": "PASS",
+    "format": "PNG",
+    "dimensions": "1008x1792",
+    "sha256": "6873a984e940b217c5a03ba853732725526ce5c58c47eff5e650430c4a303e9d"
+  },
+  "generation": {
+    "lovart_project_id": "2r4z2uqfdx4w",
+    "model": "GPT Image 2",
+    "quality": "Medium",
+    "aspect_ratio": "9:16",
+    "requested_max_credits": 15,
+    "actual_credits": 8,
+    "balance_before": 3252,
+    "balance_after": 3244
+  },
+  "passed": [
+    "single coherent male character",
+    "front full-body, back full-body, face close-up and three-quarter views present",
+    "deep teal ancient robe and restrained intelligent demeanor",
+    "no text, watermark, modern clothing or armor",
+    "no obvious extra limbs"
+  ],
+  "issues": [
+    "The eyebrow-tail mole appears on the character's own left side instead of the canonical right side.",
+    "The robe reads as pristine ornate brocade rather than a subtly worn old robe.",
+    "The three-quarter view crops the feet and lower hem.",
+    "Crown, hairpin, belt hardware and hanging straps are not fully consistent across views.",
+    "The three-quarter face is slightly narrower and sharper than the close-up identity anchor."
+  ],
+  "production_use": "Look-development only. Do not promote to an approved identity reference or use for continuity-critical video shots.",
+  "next_action": "Create a revised job using this image as a visual reference, explicitly correct mole laterality, garment wear, full-body framing, and accessory consistency."
+}

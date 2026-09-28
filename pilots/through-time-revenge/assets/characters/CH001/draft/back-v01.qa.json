@@ -1,0 +1,35 @@
+{
+  "job_id": "JOB-EP001-CH001-I05",
+  "verdict": "BLOCK",
+  "technical": {
+    "status": "PASS",
+    "format": "PNG",
+    "dimensions": "1008x1792",
+    "sha256": "7cc7841abaa9a199e64c32f8d723bf67705d2c5f417076c11ef6dd476d4b2226"
+  },
+  "generation": {
+    "lovart_project_id": "2r4z2uqfdx4w",
+    "provider_shape_id": "shape:T-_bkV5ard-5kz5-42WQh",
+    "model": "GPT Image 2",
+    "quality": "Medium",
+    "aspect_ratio": "9:16",
+    "actual_credits": 8,
+    "balance_before": 3220,
+    "balance_after": 3212
+  },
+  "passed": [
+    "single strict rear full-body view with no visible face",
+    "complete crown, horizontal hairpin, long hair, hands, robe hem and both black boots",
+    "lean tall proportions",
+    "deep teal brocade, dark inner layer and antique-gold edging",
+    "correct anatomical side mapping: character-left is screen-left from behind",
+    "no text, watermark, modern object, armor, weapon or anatomical defect"
+  ],
+  "blocking_issues": [
+    "Character-left hip includes more than two dangling units: two main straps plus chain-like and cord-like attachments.",
+    "The extra chain/cord attachments are unapproved rear-waist ornamentation.",
+    "Garment weathering is weaker than the approved front anchor."
+  ],
+  "production_use": "Draft visual reference only; not an approved continuity view.",
+  "recommendation": "Do not spend another full regeneration on this minor back-view accessory issue unless a rear shot becomes production-critical. The Pilot's selected high-risk shots do not require a direct rear view."
+}

@@ -1,0 +1,33 @@
+{
+  "shot_id": "EP001-SH011",
+  "status": "approved_by_user",
+  "approved_path": "keyframes/EP001-SH011/approved/start-v01.png",
+  "source_job": "JOB-EP001-SH011-I01",
+  "provider_asset_id": "shape:0gVPYSM_1vHxqpyLkAwDa",
+  "sha256": "8b26d505ad2516c4edaa9970e64c0c92127ce61ac613ea10a5fd6bb9af2bf80f",
+  "dimensions": {"width": 1008, "height": 1792},
+  "generation": {"model": "GPT Image 2", "quality": "Medium", "aspect_ratio": "9:16", "reference_count": 4, "credits": 16, "balance_before": 2922, "balance_after": 2906},
+  "canonical_frame_traits": [
+    "沈岳中央双膝跪地，红色宽袖官袍铺展于石地",
+    "深灰黑内层、黑色腰带与金属带扣",
+    "黑色镂空官帽、高束长发与水平横簪",
+    "冷峻压抑且不安的克制表情",
+    "左右各一名禁军，合计两名",
+    "左右各一只手按住沈岳对应肩部，合计两只按肩手",
+    "禁军腰侧刀具保持入鞘，无攻击动作",
+    "前景左下只有一份展开圣旨与双轴",
+    "金銮殿红柱纵深与画面右后方主光"
+  ],
+  "i2v_constraints": [
+    "保持双膝跪姿，禁止变成蹲坐、站起或腿部穿模",
+    "红袍纹样、内襟、腰带、官帽和横簪不得闪变",
+    "只允许轻微呼吸、眨眼和目光变化，禁止怒吼或哭喊",
+    "固定左右各一只按肩手，禁止增指、滑移、粘连或穿透衣料",
+    "维持两名禁军，禁止增生第三人",
+    "所有禁军刀持续入鞘，禁止拔刀、挥刀或击打",
+    "圣旨保持前景左下单份双轴，禁止复制、悬浮或文字游动",
+    "袍摆不得穿地、异常翻卷或与倒影脱节",
+    "保持右后方主光、红柱纵深和石地反射稳定"
+  ],
+  "approval_note": "User requested direct collect and approval. Visual review is non-blocking continuity registration."
+}

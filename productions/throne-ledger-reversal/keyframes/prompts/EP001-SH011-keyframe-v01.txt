@@ -1,0 +1,17 @@
+Create the canonical static keyframe for EP001-SH011, Shen Yue's visual reversal from judge to prisoner, in a premium realistic Chinese historical animated drama, 9:16 vertical.
+
+Use approved references with strict ownership: CH002 controls Shen Yue identity, age, crimson high-official robe, dark crown and belt language; PROP002 controls only the standardized imperial guard saber/scabbard language; PROP001 controls the single edict that remains on the floor beside the kneeling position; LOC001 controls the Great Yao throne hall stone floor, red pillars, dark-gold architecture, established axis and morning directional light. Do not let guard equipment redesign Shen Yue.
+
+Frame the stable end boundary immediately after Shen Yue's knees have struck the floor. Shen Yue is centered in a frontal medium shot, both knees firmly on blue-gray polished stone, torso still upright but authority visibly broken. His 47-year-old face has lost color; expression is controlled shock and dread, never comic. Preserve his approved crimson high-official outer robe, dark underlayers, dark fixed crown, central belt structure and documented costume imperfections without emphasizing extreme crown or belt close-ups. His hands are empty and held low near his thighs.
+
+Exactly two imperial guards close in from behind-left and behind-right. Show them mainly as cropped armored forearms, shoulders and hands to reduce identity clutter. Each guard places one hand firmly but nonviolently on one of Shen Yue's shoulders, creating exactly two restraining hands total. Their standardized sabers remain fully sheathed at their hips; no blade is drawn, no weapon contacts Shen Yue. Do not add a third guard.
+
+Exactly one approved imperial edict lies on the stone floor beside Shen Yue's knees, slightly screen-left, with complete twin rods visible and unreadable ink kept soft. Its position visually recalls Xiao Ce's earlier kneeling place. No ledger or new evidence object appears.
+
+Camera: frontal 50mm-equivalent medium shot at slightly lowered eye level, tiny downward follow already resolved at the end of the kneel. Shen Yue's face and shoulder restraint are sharp; guard bodies and distant hall are slightly softer. Red pillars and polished stone maintain the established hall axis.
+
+Light: maintain cool morning hall ambience and restrained right-side/upper-right directional light consistent with the accepted preceding keyframes. No theatrical spotlight, no magical glow.
+
+Continuity locks: Shen Yue crimson robe; both knees down; exactly two guards; exactly two restraining hands, one per shoulder; sabers remain sheathed; one edict beside knees; no comedy.
+
+Forbidden: exaggerated fall, face-first collapse, standing Shen Yue, more than two guards, extra hands, hands fused into shoulders, drawn blade, blade touching a person, new weapon, armor penetration, readable edict text, second edict, ledger, watermark, subtitle, comedic expression, gore.

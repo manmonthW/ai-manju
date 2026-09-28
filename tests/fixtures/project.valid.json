@@ -1,0 +1,15 @@
+{
+  "schema_version": "1.0.0",
+  "project_id": "DRAMA-DEMO",
+  "title": "AI漫剧试制",
+  "status": "development",
+  "format": {
+    "episode_duration_s": 40,
+    "aspect_ratio": "9:16",
+    "language": "zh-CN"
+  },
+  "providers": {
+    "image": "lovart",
+    "video": "lovart"
+  }
+}

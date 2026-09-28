@@ -1,0 +1,50 @@
+{
+  "episode_id": "EP001",
+  "planned_duration_s": 80,
+  "shot_count": 14,
+  "asset_dependency_order": [
+    {
+      "priority": 1,
+      "asset_id": "LOC001",
+      "reason": "The throne hall appears in all 14 shots and defines camera axis, lighting and spatial continuity."
+    },
+    {
+      "priority": 2,
+      "asset_id": "CH002",
+      "reason": "Shen Yue appears in 10 shots and carries the episode's primary conflict."
+    },
+    {
+      "priority": 3,
+      "asset_id": "CH003",
+      "reason": "Gu Qingshuang is required for the evidence-validation turn and later season continuity."
+    },
+    {
+      "priority": 4,
+      "asset_id": "PROP003",
+      "reason": "The ledger is the central causal prop and the existing Pilot version needs a clean canonical master."
+    },
+    {
+      "priority": 5,
+      "asset_id": "PROP005",
+      "reason": "The phoenix private seal creates the episode cliffhanger and season-level antagonist link."
+    },
+    {
+      "priority": 6,
+      "asset_id": "CH005",
+      "reason": "Only a pearl-curtain silhouette and right-hand gesture are needed in Episode 1."
+    },
+    {
+      "priority": 7,
+      "asset_id": "CH004",
+      "reason": "Only queen sleeve, hand and phoenix hairpin details are needed before Episode 4."
+    }
+  ],
+  "reuse": {
+    "source": "../../pilots/through-time-revenge/generations/lovart/videos/EP001-SH004-v01.mp4",
+    "target_shots": ["EP001-SH006", "EP001-SH007"],
+    "required_postprocess": ["obscure pseudo-text inside seals", "remove empty AAC stream", "trim into two editorial beats"]
+  },
+  "new_generation_shots": ["EP001-SH001", "EP001-SH002", "EP001-SH004", "EP001-SH005", "EP001-SH008", "EP001-SH009", "EP001-SH010", "EP001-SH011", "EP001-SH012", "EP001-SH013", "EP001-SH014"],
+  "hybrid_shots": ["EP001-SH003"],
+  "production_gate": "Do not generate shot keyframes until LOC001 and CH002 are accepted. Do not submit remaining I2V jobs until all 14 static keyframes pass composition and continuity review."
+}

@@ -1,0 +1,487 @@
+{
+  "schema_version": "1.0.0",
+  "episode_id": "EP001",
+  "title": "抄错人了",
+  "target_duration_s": 80,
+  "scene_id": "EP001-SC001",
+  "shots": [
+    {
+      "shot_id": "EP001-SH001",
+      "scene_id": "EP001-SC001",
+      "duration_s": 4,
+      "timecode": "00:00-00:04",
+      "story_purpose": "用圣旨和木杖在四秒内建立满门抄斩的绝对死局。",
+      "start_boundary": "黑场中先听见木杖重击石地。",
+      "primary_transition": "低机位掠过木杖，圣旨从画面上方砸落到萧策膝前。",
+      "end_boundary": "圣旨停住，萧策带血的手进入画面但尚未触碰。",
+      "camera": "竖屏极低机位近景，轻微快速下压后锁定，35mm等效。",
+      "dialogue": [
+        "沈岳：萧家通敌，证据确凿。"
+      ],
+      "references": [
+        "LOC001",
+        "PROP001",
+        "CH001",
+        "CH002"
+      ],
+      "continuity_locks": [
+        "圣旨位于萧策正前方",
+        "沈岳红袍只以袍摆和手进入",
+        "青灰石地",
+        "无可读圣旨文字"
+      ],
+      "forbidden": [
+        "现代文字",
+        "完整展示第二张脸",
+        "圣旨漂浮",
+        "镜头摇晃"
+      ],
+      "asset_mode": "new-image-and-i2v",
+      "schema_version": "1.0.0"
+    },
+    {
+      "shot_id": "EP001-SH002",
+      "scene_id": "EP001-SC001",
+      "duration_s": 5,
+      "timecode": "00:04-00:09",
+      "story_purpose": "展示萧策身处绝境并完成沈岳的死刑宣告。",
+      "start_boundary": "萧策低头跪在大殿中心，嘴角有血。",
+      "primary_transition": "他缓慢抬眼，前景禁军刀锋同步落下形成视觉牢笼。",
+      "end_boundary": "萧策目光停在沈岳身上。",
+      "camera": "正面中近景，缓慢推近不超过8%，50mm等效。",
+      "dialogue": [
+        "沈岳：午时，满门抄斩。"
+      ],
+      "references": [
+        "CH001",
+        "CH002",
+        "LOC001",
+        "PROP002"
+      ],
+      "continuity_locks": [
+        "萧策深青旧袍与右眉尾痣",
+        "跪姿",
+        "刀锋只作前景",
+        "沈岳位于轴线左侧"
+      ],
+      "forbidden": [
+        "萧策站起",
+        "刀刃穿人",
+        "额外主角",
+        "夸张哭喊"
+      ],
+      "asset_mode": "new-image-and-i2v",
+      "schema_version": "1.0.0"
+    },
+    {
+      "shot_id": "EP001-SH003",
+      "scene_id": "EP001-SC001",
+      "duration_s": 5,
+      "timecode": "00:09-00:14",
+      "story_purpose": "以极短现代记忆建立穿越身份，并让萧策锁定账册。",
+      "start_boundary": "萧策瞳孔与殿内暖光占满画面。",
+      "primary_transition": "会议室白光、财务表格网格与坠落咖啡杯三次闪切后，焦点落到沈岳袖中旧账册。",
+      "end_boundary": "账册边角在红袖中清晰，萧策视线方向与其连线。",
+      "camera": "眼部特写与三个不超过0.5秒的插帧，最后切85mm账册特写。",
+      "dialogue": [
+        "萧策VO：我不是在董事会。我穿成了一个等死的世子。"
+      ],
+      "references": [
+        "CH001",
+        "CH002",
+        "PROP003",
+        "LOC001"
+      ],
+      "continuity_locks": [
+        "现代画面只作抽象闪回",
+        "账册在沈岳左袖内侧",
+        "萧策仍跪地"
+      ],
+      "forbidden": [
+        "可读现代财务数据",
+        "手机或电脑品牌",
+        "系统面板",
+        "魔法穿越光效"
+      ],
+      "asset_mode": "hybrid-motion-graphics",
+      "schema_version": "1.0.0"
+    },
+    {
+      "shot_id": "EP001-SH004",
+      "scene_id": "EP001-SC001",
+      "duration_s": 7,
+      "timecode": "00:14-00:21",
+      "story_purpose": "用不可能的运输速度发动第一次专业反击。",
+      "start_boundary": "沈岳侧身向珠帘后的皇帝请旨。",
+      "primary_transition": "萧策在画外喊慢着，沈岳停步回头，镜头切回萧策平静报出三万石、七日和八百里。",
+      "end_boundary": "沈岳的笑意第一次凝住。",
+      "camera": "沈岳肩后过肩镜转萧策中近景，固定轴线。",
+      "dialogue": [
+        "萧策：慢着。沈大人，三万石赈灾粮，七日走完八百里？",
+        "沈岳：白纸黑字，沿途皆有官印。"
+      ],
+      "references": [
+        "CH001",
+        "CH002",
+        "CH005",
+        "LOC001"
+      ],
+      "continuity_locks": [
+        "沈岳红袍",
+        "皇帝只在珠帘后成轮廓",
+        "萧策语气克制"
+      ],
+      "forbidden": [
+        "皇帝完整露脸",
+        "现代数字浮屏",
+        "朝臣夸张喧闹"
+      ],
+      "asset_mode": "new-image-and-i2v",
+      "schema_version": "1.0.0"
+    },
+    {
+      "shot_id": "EP001-SH005",
+      "scene_id": "EP001-SC001",
+      "duration_s": 5,
+      "timecode": "00:21-00:26",
+      "story_purpose": "以一句通俗问题完成第一轮公开打脸并点燃群体反应。",
+      "start_boundary": "萧策低头快速心算，手指只轻点石地一次。",
+      "primary_transition": "他抬眼问粮车会飞，背景朝臣从静止变为互相侧目。",
+      "end_boundary": "沈岳眼神收紧，手下意识压住袖中账册。",
+      "camera": "萧策侧面近景转沈岳手部插入，70mm等效。",
+      "dialogue": [
+        "萧策：一天一百一十四里。你家的粮车，会飞？"
+      ],
+      "references": [
+        "CH001",
+        "CH002",
+        "LOC001",
+        "PROP003"
+      ],
+      "continuity_locks": [
+        "萧策不做现代手势",
+        "沈岳账册位置不变",
+        "背景朝臣保持虚化"
+      ],
+      "forbidden": [
+        "空中公式",
+        "喜剧表情",
+        "账册提前掉落"
+      ],
+      "asset_mode": "new-image-and-i2v",
+      "schema_version": "1.0.0"
+    },
+    {
+      "shot_id": "EP001-SH006",
+      "scene_id": "EP001-SC001",
+      "duration_s": 6,
+      "timecode": "00:26-00:32",
+      "story_purpose": "萧策用主动夺证将语言交锋升级为生死动作。",
+      "start_boundary": "沈岳右手刚按住账册，萧策从跪姿起身半步。",
+      "primary_transition": "萧策右手夺账，左手托住下缘；前景禁军刀锋拔出但不落下。",
+      "end_boundary": "账册完全进入萧策双手，沈岳红袖后撤。",
+      "camera": "低机位三分之四中景，克制推近。",
+      "dialogue": [
+        "沈岳：御前夺证，你想当场伏诛？"
+      ],
+      "references": [
+        "CH001",
+        "CH002",
+        "PROP003",
+        "LOC001"
+      ],
+      "continuity_locks": [
+        "萧策右手夺取",
+        "左手托下缘",
+        "单一账册",
+        "沈岳不露完整脸"
+      ],
+      "forbidden": [
+        "多本账册",
+        "手账融合",
+        "多指",
+        "刀锋击中人物"
+      ],
+      "asset_mode": "reuse-pilot-video-segment",
+      "reuse_source": "SH004_PILOT_VIDEO",
+      "reuse_range_s": [
+        0.0,
+        2.2
+      ],
+      "schema_version": "1.0.0"
+    },
+    {
+      "shot_id": "EP001-SH007",
+      "scene_id": "EP001-SC001",
+      "duration_s": 6,
+      "timecode": "00:32-00:38",
+      "story_purpose": "把两地同号同日入库的矛盾变成观众可理解的视觉证据。",
+      "start_boundary": "账册闭合在萧策手中。",
+      "primary_transition": "他只翻一页，双重红印进入前景，目光从红印抬向沈岳。",
+      "end_boundary": "账册稳定展开，双印同框。",
+      "camera": "账册近景起，缓慢上移到萧策目光；无绕拍。",
+      "dialogue": [
+        "萧策：青州和雍州，相隔六百里。同一税号、同一天、入了两次库。"
+      ],
+      "references": [
+        "CH001",
+        "PROP003",
+        "LOC001"
+      ],
+      "continuity_locks": [
+        "只翻一页",
+        "两枚红印为抽象图形",
+        "双手分离",
+        "单一账册"
+      ],
+      "forbidden": [
+        "可读伪文字特写",
+        "新增页面",
+        "红印游走",
+        "脸部漂移"
+      ],
+      "asset_mode": "reuse-pilot-video-segment",
+      "reuse_source": "SH004_PILOT_VIDEO",
+      "reuse_range_s": [
+        2.2,
+        5.06195
+      ],
+      "postprocess": [
+        "软化或替换红印内部伪文字",
+        "移除空AAC音轨"
+      ],
+      "schema_version": "1.0.0"
+    },
+    {
+      "shot_id": "EP001-SH008",
+      "scene_id": "EP001-SC001",
+      "duration_s": 7,
+      "timecode": "00:38-00:45",
+      "story_purpose": "引入顾清霜，以合法验印把萧策推理升级为司法证据。",
+      "start_boundary": "顾清霜从朝臣队列中迈出，接过账册但不改变页码。",
+      "primary_transition": "她用验印尺依次覆盖两道印边，发现缺失龙爪。",
+      "end_boundary": "验印尺停在缺口处，顾清霜抬眼宣告结论。",
+      "camera": "手部与印章微距转顾清霜半身，85mm等效。",
+      "dialogue": [
+        "顾清霜：印纹少一道龙爪。这不是户部现印，是沈府三年前报失的旧印。"
+      ],
+      "references": [
+        "CH003",
+        "PROP003",
+        "PROP004",
+        "LOC001"
+      ],
+      "continuity_locks": [
+        "顾清霜冷静",
+        "账册页码和双印不变",
+        "验印尺无可读刻度"
+      ],
+      "forbidden": [
+        "现代放大镜",
+        "可读文字",
+        "顾清霜媚态",
+        "多余手"
+      ],
+      "asset_mode": "new-image-and-i2v",
+      "schema_version": "1.0.0"
+    },
+    {
+      "shot_id": "EP001-SH009",
+      "scene_id": "EP001-SC001",
+      "duration_s": 6,
+      "timecode": "00:45-00:51",
+      "story_purpose": "让沈岳反扑并由萧策用复核权完成第二轮压制。",
+      "start_boundary": "沈岳跨前一步，红袖甩开。",
+      "primary_transition": "他指控萧家是担保人，萧策不退，只将账册合上一半回应。",
+      "end_boundary": "沈岳的手停在半空，百官沉默。",
+      "camera": "双人对峙中景，萧策略低但构图更稳。",
+      "dialogue": [
+        "沈岳：一派胡言！他萧家才是押运担保人！",
+        "萧策：所以你急着杀我。死人不会要求复核。"
+      ],
+      "references": [
+        "CH001",
+        "CH002",
+        "PROP003",
+        "LOC001"
+      ],
+      "continuity_locks": [
+        "萧策和沈岳保持既定轴线",
+        "账册仍在萧策手中",
+        "顾清霜退至侧后方"
+      ],
+      "forbidden": [
+        "肢体冲突",
+        "沈岳跪下过早",
+        "新增证物"
+      ],
+      "asset_mode": "new-image-and-i2v",
+      "schema_version": "1.0.0"
+    },
+    {
+      "shot_id": "EP001-SH010",
+      "scene_id": "EP001-SC001",
+      "duration_s": 5,
+      "timecode": "00:51-00:56",
+      "story_purpose": "用皇帝一个抬手让权力天平突然倒向沈岳。",
+      "start_boundary": "珠帘后的皇帝保持静止，只见剪影。",
+      "primary_transition": "皇帝抬起右手，殿内所有细碎动作同时停止。",
+      "end_boundary": "禁军视线从萧策转向沈岳。",
+      "camera": "珠帘长焦剪影特写，切禁军眼神和刀柄。",
+      "dialogue": [
+        "皇帝：封沈府，查私库。"
+      ],
+      "references": [
+        "CH005",
+        "LOC001",
+        "PROP002"
+      ],
+      "continuity_locks": [
+        "皇帝不完整露脸",
+        "珠帘遮挡",
+        "禁军刀仍未出击"
+      ],
+      "forbidden": [
+        "皇帝站起",
+        "龙椅文字",
+        "皇冠漂移",
+        "多人同时大动作"
+      ],
+      "asset_mode": "new-image-and-i2v",
+      "schema_version": "1.0.0"
+    },
+    {
+      "shot_id": "EP001-SH011",
+      "scene_id": "EP001-SC001",
+      "duration_s": 5,
+      "timecode": "00:56-01:01",
+      "story_purpose": "完成权臣从审判者到阶下囚的视觉逆转。",
+      "start_boundary": "沈岳脸色失血，仍试图维持站姿。",
+      "primary_transition": "他膝盖重重落地，禁军从后方合拢并按住双肩。",
+      "end_boundary": "沈岳跪在原本萧策的位置旁。",
+      "camera": "沈岳正面中景，微小下摇跟随跪落，不做慢动作。",
+      "dialogue": [],
+      "references": [
+        "CH002",
+        "LOC001",
+        "PROP002"
+      ],
+      "continuity_locks": [
+        "沈岳红官袍",
+        "两名禁军",
+        "跪落位置与圣旨相邻"
+      ],
+      "forbidden": [
+        "夸张摔倒",
+        "新增武器",
+        "盔甲穿模",
+        "喜剧化表情"
+      ],
+      "asset_mode": "new-image-and-i2v",
+      "schema_version": "1.0.0"
+    },
+    {
+      "shot_id": "EP001-SH012",
+      "scene_id": "EP001-SC001",
+      "duration_s": 6,
+      "timecode": "01:01-01:07",
+      "story_purpose": "以圣旨回推完成本集最强打脸台词。",
+      "start_boundary": "萧策站稳，将账册交给顾清霜，低头看向脚边圣旨。",
+      "primary_transition": "他用两指将圣旨沿石地推到沈岳膝前。",
+      "end_boundary": "沈岳与圣旨同框，萧策站在焦点后方。",
+      "camera": "地面近景跟随圣旨滑动，末端抬焦至萧策。",
+      "dialogue": [
+        "萧策：沈大人，圣旨没错。只是抄错了人。"
+      ],
+      "references": [
+        "CH001",
+        "CH002",
+        "CH003",
+        "PROP001",
+        "LOC001"
+      ],
+      "continuity_locks": [
+        "圣旨沿地面移动",
+        "萧策不踩圣旨",
+        "沈岳保持跪姿",
+        "顾清霜持账在侧"
+      ],
+      "forbidden": [
+        "踢圣旨",
+        "圣旨飞起",
+        "角色轴线翻转",
+        "字幕写入画面"
+      ],
+      "asset_mode": "new-image-and-i2v",
+      "schema_version": "1.0.0"
+    },
+    {
+      "shot_id": "EP001-SH013",
+      "scene_id": "EP001-SC001",
+      "duration_s": 7,
+      "timecode": "01:07-01:14",
+      "story_purpose": "立即收回安全感，用十二时辰新死线驱动下一集。",
+      "start_boundary": "沈岳被拖向殿门，忽然侧头笑。",
+      "primary_transition": "沈岳抛出粮不存在的威胁；皇帝随后给萧策十二个时辰。",
+      "end_boundary": "萧策的表情从短暂胜利回到冷静计算。",
+      "camera": "沈岳被拖行的侧面中景切萧策近景，皇帝声音画外。",
+      "dialogue": [
+        "沈岳：午时之前找不到粮，你们还是得死。",
+        "皇帝OS：粮在，萧家活；粮不在，一起斩。"
+      ],
+      "references": [
+        "CH001",
+        "CH002",
+        "CH005",
+        "LOC001"
+      ],
+      "continuity_locks": [
+        "沈岳受禁军控制",
+        "萧策仍在殿中",
+        "皇帝只用画外音"
+      ],
+      "forbidden": [
+        "沈岳挣脱",
+        "皇帝完整露脸",
+        "萧策庆祝",
+        "场景切换"
+      ],
+      "asset_mode": "new-image-and-i2v",
+      "schema_version": "1.0.0"
+    },
+    {
+      "shot_id": "EP001-SH014",
+      "scene_id": "EP001-SC001",
+      "duration_s": 6,
+      "timecode": "01:14-01:20",
+      "story_purpose": "用凤纹私印揭示沈岳之上还有皇后，形成强制追看钩子。",
+      "start_boundary": "账册夹层在顾清霜手中松开，一枚私印坠向石地。",
+      "primary_transition": "凤纹私印旋转落地；萧策拾起；切珠帘侧后方皇后手指轻停。",
+      "end_boundary": "私印凤纹与皇后凤簪进行形状匹配切，随即黑场。",
+      "camera": "私印微距慢速落地，萧策指尖拾取，最后100mm皇后手部特写。",
+      "dialogue": [
+        "沈岳OS：那枚印的主人，才是要你死的人。"
+      ],
+      "references": [
+        "CH001",
+        "CH004",
+        "PROP003",
+        "PROP005",
+        "LOC001"
+      ],
+      "continuity_locks": [
+        "凤纹私印唯一",
+        "皇后只见手与凤簪局部",
+        "珠帘方位与皇帝一致但座位侧后"
+      ],
+      "forbidden": [
+        "皇后露脸",
+        "私印文字",
+        "魔法发光",
+        "额外印章"
+      ],
+      "asset_mode": "new-image-and-i2v",
+      "schema_version": "1.0.0"
+    }
+  ]
+}

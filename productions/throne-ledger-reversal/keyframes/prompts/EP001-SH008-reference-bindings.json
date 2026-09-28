@@ -1,0 +1,13 @@
+{
+  "shot_id": "EP001-SH008",
+  "job_id": "JOB-EP001-SH008-I01",
+  "prompt_ref": "keyframes/prompts/EP001-SH008-keyframe-v01.txt",
+  "reference_upload_order": [
+    {"asset_id": "CH003", "role": "Gu Qingshuang identity, uniform, coiffure and pouch only", "path": "assets/characters/CH003/approved/front-anchor-v01.png"},
+    {"asset_id": "PROP003", "role": "single ledger topology and two-seal layout only", "path": "assets/props/PROP003/approved/ledger-master-v01.png"},
+    {"asset_id": "PROP004", "role": "single seal-comparison ruler geometry only", "path": "assets/props/PROP004/approved/seal-comparison-ruler-v01.png"},
+    {"asset_id": "LOC001", "role": "throne hall architecture, axis and lighting only", "path": "assets/locations/LOC001/approved/throne-hall-anchor-v01.png"}
+  ],
+  "binding_status": "requires_manual_windows_file_picker_upload",
+  "generation": {"model": "GPT Image 2", "quality": "Medium", "aspect_ratio": "9:16", "count": 1}
+}

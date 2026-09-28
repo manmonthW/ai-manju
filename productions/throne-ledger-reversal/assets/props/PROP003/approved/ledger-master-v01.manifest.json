@@ -1,0 +1,35 @@
+{
+  "asset_id": "PROP003",
+  "name": "赈灾粮账册",
+  "status": "approved_by_user",
+  "approved_path": "assets/props/PROP003/approved/ledger-master-v01.png",
+  "source_generation_job": "JOB-EP001-PROP003-I01",
+  "sha256": "7f61ffa370f130bf862379bf3dcb5b98c526a3197c08056c42126c16ae62a280",
+  "technical": {"format": "PNG", "dimensions": [1008, 1792]},
+  "generation": {
+    "model": "GPT Image 2",
+    "parameters": "Medium · 9:16 · 1 img",
+    "actual_credits": 8,
+    "balance_before": 3080,
+    "balance_after": 3072,
+    "lovart_project_id": "2r4z2uqfdx4w",
+    "provider_shape_id": "shape:cne9sp1lF8GKhY04imQZU"
+  },
+  "canonical_structure": [
+    "one large hand-portable ledger",
+    "warm gray-beige worn covers",
+    "wide dark-brown left spine with approximately four visible ties",
+    "thick aged off-white page block",
+    "one open double-page spread",
+    "two overlapping faded red circular seals near the lower center fold",
+    "broad blank upper page zones"
+  ],
+  "continuity_normalization": [
+    "Lock both seal silhouettes, rotation, overlap and faded defects across all shots.",
+    "Treat interior seal strokes as abstract pseudo-text and replace or soften them in close-up postproduction.",
+    "Keep the lower seal as the principal fold-crossing evidence mark.",
+    "Preserve the left spine, four-tie rhythm, page thickness and worn cover color.",
+    "Do not invent exact total page count.",
+    "Any later readable ledger entries must be deterministic postproduction layers."
+  ]
+}

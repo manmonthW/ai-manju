@@ -1,0 +1,30 @@
+{
+  "asset_id": "CH001-BACK-V01",
+  "character_id": "CH001",
+  "revision": 1,
+  "status": "approved_with_waiver",
+  "source_generation_job": "JOB-EP001-CH001-I05",
+  "approved_by": "user",
+  "approved_path": "assets/characters/CH001/approved/back-v01.png",
+  "sha256": "7cc7841abaa9a199e64c32f8d723bf67705d2c5f417076c11ef6dd476d4b2226",
+  "technical": {
+    "format": "PNG",
+    "dimensions": [1008, 1792]
+  },
+  "accepted_strengths": [
+    "strict direct-back full-body view",
+    "complete crown, hairpin, long hair, hands, robe hem and boots",
+    "correct body proportions and anatomical side mapping",
+    "matching deep teal costume direction"
+  ],
+  "waived_issues": [
+    "character-left hip includes two main straps plus extra chain/cord dangling units",
+    "unapproved rear-waist ornamentation",
+    "weaker garment weathering than front anchor"
+  ],
+  "usage_policy": {
+    "allowed": ["rear-view reference", "hair silhouette", "robe volume", "non-close rear video shots"],
+    "not_authoritative_for": ["strap count", "rear-waist ornament", "garment weathering"],
+    "canonical_fallback": "assets/characters/CH001/approved/front-anchor-v01.png"
+  }
+}

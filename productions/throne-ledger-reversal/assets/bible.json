@@ -1,0 +1,82 @@
+{
+  "schema_version": "1.0.0",
+  "project_id": "THRONE-LEDGER-REVERSAL",
+  "characters": [
+    {
+      "asset_id": "CH001",
+      "name": "萧策",
+      "role": "protagonist",
+      "status": "accepted",
+      "canonical_identity": "../../pilots/through-time-revenge/assets/characters/CH001/approved/front-anchor-v01.png",
+      "locks": ["24岁清瘦男性", "角色自身右眉尾唯一小痣", "深青旧锦袍", "暗金属几何发冠", "直横簪", "中央方形腰扣", "黑色古靴"]
+    },
+    {
+      "asset_id": "CH002",
+      "name": "沈岳",
+      "role": "episode-antagonist",
+      "status": "required",
+      "requirements": ["47岁", "克制威严", "绯红高阶官袍", "深色官帽或固定发冠", "不做脸谱化奸笑", "可完成宣判、失控、跪落"]
+    },
+    {
+      "asset_id": "CH003",
+      "name": "顾清霜",
+      "role": "judicial-lead",
+      "status": "required",
+      "requirements": ["25岁", "冷静专业", "深墨蓝大理寺官服", "利落束发", "不媚态", "手部需适合验印特写"]
+    },
+    {
+      "asset_id": "CH004",
+      "name": "裴昭宁",
+      "role": "season-antagonist",
+      "status": "required-partial-first",
+      "requirements": ["29岁皇后", "玄红凤袍", "金色凤簪", "端庄克制", "第1集只需手部、袖口和凤簪局部"]
+    },
+    {
+      "asset_id": "CH005",
+      "name": "萧承乾",
+      "role": "emperor",
+      "status": "required-partial-first",
+      "requirements": ["38岁", "珠帘后剪影", "玄金常服", "第1集不完整露脸", "右手抬起姿态锚点"]
+    }
+  ],
+  "locations": [
+    {
+      "asset_id": "LOC001",
+      "name": "大曜金銮殿",
+      "status": "required",
+      "requirements": ["9:16适配", "深红立柱", "暗金梁架", "青灰石地", "高处珠帘御座", "清晨冷影和暖侧光", "固定轴线与空间地图", "无可读匾额"]
+    }
+  ],
+  "props": [
+    {
+      "asset_id": "PROP001",
+      "name": "抄家圣旨",
+      "status": "required",
+      "requirements": ["米黄旧绢", "暗红轴头", "不可读抽象墨迹", "适合掷地和沿地面推回"]
+    },
+    {
+      "asset_id": "PROP002",
+      "name": "禁军刀",
+      "status": "required",
+      "requirements": ["统一制式", "黑钢刀身", "不夸张奇幻", "只作威胁和构图"]
+    },
+    {
+      "asset_id": "PROP003",
+      "name": "赈灾粮账册",
+      "status": "pilot-available-needs-clean-master",
+      "requirements": ["单一旧账册", "稳定书脊和页层", "两道重叠红印", "所有可读文字后期制作", "支持夺取、翻一页、验印"]
+    },
+    {
+      "asset_id": "PROP004",
+      "name": "验印尺",
+      "status": "required",
+      "requirements": ["古代木或黄铜工具", "无现代玻璃", "刻度抽象不可读", "可覆盖印边"]
+    },
+    {
+      "asset_id": "PROP005",
+      "name": "凤纹私印",
+      "status": "required",
+      "requirements": ["一枚", "小型暗金或青铜", "凤纹图形可识别但无文字", "与皇后凤簪形成视觉匹配"]
+    }
+  ]
+}
